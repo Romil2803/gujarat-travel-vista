@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Search, MapPin, Star, Filter, Heart, Share2, Calendar, Users } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -6,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Badge } from '@/components/ui/badge';
+import DestinationModal from '@/components/DestinationModal';
 import gujaratData from '@/data/gujarat-attractions.json';
 
 const Index = () => {
@@ -15,6 +15,8 @@ const Index = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [favorites, setFavorites] = useState(new Set());
+  const [selectedDestination, setSelectedDestination] = useState(null);
+  const [modalOpen, setModalOpen] = useState(false);
 
   useEffect(() => {
     // Simulate loading data from JSON
@@ -49,6 +51,11 @@ const Index = () => {
       newFavorites.add(id);
     }
     setFavorites(newFavorites);
+  };
+
+  const handleLearnMore = (destination) => {
+    setSelectedDestination(destination);
+    setModalOpen(true);
   };
 
   const categories = [
@@ -104,7 +111,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             <div className="p-6">
-              <div className="text-3xl font-bold text-orange-600 mb-2">12+</div>
+              <div className="text-3xl font-bold text-orange-600 mb-2">15+</div>
               <div className="text-gray-600">Top Destinations</div>
             </div>
             <div className="p-6">
@@ -208,7 +215,11 @@ const Index = () => {
                     <span className="text-sm text-gray-500">
                       {destination.reviews} reviews
                     </span>
-                    <Button size="sm" className="bg-orange-600 hover:bg-orange-700">
+                    <Button 
+                      size="sm" 
+                      className="bg-orange-600 hover:bg-orange-700"
+                      onClick={() => handleLearnMore(destination)}
+                    >
                       Learn More
                     </Button>
                   </div>
@@ -381,6 +392,13 @@ const Index = () => {
           </div>
         </div>
       </footer>
+
+      {/* Destination Modal */}
+      <DestinationModal
+        destination={selectedDestination}
+        open={modalOpen}
+        onOpenChange={setModalOpen}
+      />
     </div>
   );
 };

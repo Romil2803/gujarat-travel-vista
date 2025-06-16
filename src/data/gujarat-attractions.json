@@ -10,7 +10,14 @@
       "category": "historical",
       "rating": 4.8,
       "reviews": 1250,
-      "highlights": ["UNESCO World Heritage Site", "Ancient Architecture", "Photography"]
+      "highlights": ["UNESCO World Heritage Site", "Ancient Architecture", "Photography"],
+      "detailedDescription": "Rani ki Vav, literally 'Queen's Stepwell', is an intricately constructed stepwell situated in Patan. Built in the 11th century AD in the memory of Bhimdev I, it is considered one of the finest examples of stepwell architecture in Gujarat. The stepwell was constructed during the reign of the Solanki dynasty. Most of the sculptures are in devotion to Vishnu, in the forms of Dus-avatar (ten incarnations of Vishnu) and others related to Vishnu mythology.",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹40 for Indians, ₹600 for Foreigners",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Patan Patola Heritage Museum", "Sahastralinga Talav", "Hemchandra Acharya North Gujarat University"],
+      "howToReach": "Patan is well connected by road from Ahmedabad (125 km). Regular bus services are available.",
+      "tips": ["Visit early morning for better lighting and fewer crowds", "Carry water and sun protection", "Photography is allowed with additional charges"]
     },
     {
       "id": 2,
@@ -21,7 +28,14 @@
       "category": "wildlife",
       "rating": 4.7,
       "reviews": 890,
-      "highlights": ["Asiatic Lions", "Wildlife Safari", "Bird Watching"]
+      "highlights": ["Asiatic Lions", "Wildlife Safari", "Bird Watching"],
+      "detailedDescription": "Gir National Park and Wildlife Sanctuary is a forest and national park near Talala Gir in Gujarat. It is the sole home of the pure Asiatic lions and is considered one of the most important protected areas in Asia due to its supported species. The park was established in 1965 with a total area of 1,412 km². Apart from lions, the park is home to over 200 bird species, leopards, sloth bears, and various deer species.",
+      "timings": "6:00 AM - 9:00 AM, 3:00 PM - 6:00 PM",
+      "entryFee": "₹80 per person + Safari charges ₹1,575 per gypsy",
+      "bestTimeToVisit": "December to March",
+      "nearbyAttractions": ["Somnath Temple", "Devaliya Safari Park", "Kankai Mata Temple"],
+      "howToReach": "Nearest railway station is Junagadh (60 km). Rajkot airport is 160 km away.",
+      "tips": ["Book safari in advance", "Carry binoculars for wildlife viewing", "Maintain silence during safari", "Wear earth-colored clothing"]
     },
     {
       "id": 3,
@@ -32,7 +46,14 @@
       "category": "natural",
       "rating": 4.9,
       "reviews": 2100,
-      "highlights": ["Salt Desert", "Rann Utsav", "Full Moon Nights"]
+      "highlights": ["Salt Desert", "Rann Utsav", "Full Moon Nights"],
+      "detailedDescription": "The Great Rann of Kutch is a salt marsh in the Thar Desert in the Kutch District. It is the largest salt desert in the world, spanning over 7,500 square kilometers. During monsoon, the area gets submerged in water and during winters, the water dries up leaving behind a white salt desert. The Rann Utsav, a cultural festival, is organized here from November to February showcasing the rich culture of Gujarat through folk dances, music, handicrafts, and local cuisine.",
+      "timings": "24 hours (Festival timings: 5:30 PM - 10:30 PM)",
+      "entryFee": "Free (Festival entry: ₹100-500 depending on package)",
+      "bestTimeToVisit": "November to February",
+      "nearbyAttractions": ["Kala Dungar", "Wild Ass Sanctuary", "Fossil Park"],
+      "howToReach": "Bhuj is the nearest city (80 km). Regular buses available from major cities.",
+      "tips": ["Visit during full moon for magical experience", "Book accommodation in advance during festival", "Carry warm clothes for winter nights", "Respect local customs and environment"]
     },
     {
       "id": 4,
@@ -43,7 +64,14 @@
       "category": "religious",
       "rating": 4.6,
       "reviews": 1580,
-      "highlights": ["Jyotirlinga", "Arabian Sea", "Ancient Temple"]
+      "highlights": ["Jyotirlinga", "Arabian Sea", "Ancient Temple"],
+      "detailedDescription": "Somnath Temple is one of the most sacred pilgrimage sites for Hindus and is believed to be the first among the twelve Jyotirlinga shrines of Shiva. The temple has been destroyed and rebuilt several times. The current structure was rebuilt in 1951. Located on the shores of the Arabian Sea, the temple offers a magnificent view of the ocean. The evening aarti and the sound and light show depicting the temple's history are major attractions.",
+      "timings": "6:00 AM - 9:00 PM",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Bhalka Tirth", "Triveni Sangam", "Somnath Beach"],
+      "howToReach": "Veraval railway station is 5 km away. Regular buses from Ahmedabad (400 km).",
+      "tips": ["Attend evening aarti for spiritual experience", "Watch sound and light show", "Photography inside temple is restricted", "Dress modestly"]
     },
     {
       "id": 5,
@@ -54,7 +82,14 @@
       "category": "religious",
       "rating": 4.7,
       "reviews": 1320,
-      "highlights": ["Char Dham", "Lord Krishna", "Pilgrimage"]
+      "highlights": ["Char Dham", "Lord Krishna", "Pilgrimage"],
+      "detailedDescription": "Dwarkadhish Temple, also known as Jagat Mandir, is a Chalukya styled architecture temple dedicated to Lord Krishna. It is one of the Char Dham pilgrimage sites. The temple is believed to be 2,500 years old and the main deity is made of black stone. The temple has 60 pillars supporting the roof and two gateways - Swarg Dwar (north) and Moksha Dwar (south). The flag atop the temple changes 5 times a day.",
+      "timings": "6:00 AM - 12:30 PM, 5:00 PM - 9:30 PM",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Beyt Dwarka", "Nageshwar Jyotirlinga", "Rukmini Temple"],
+      "howToReach": "Dwarka railway station is 1 km from temple. Jamnagar airport is 137 km away.",
+      "tips": ["Visit during Janmashtami for grand celebrations", "Book darshan in advance during peak season", "Respect temple customs", "Take boat ride to Beyt Dwarka"]
     },
     {
       "id": 6,
@@ -65,7 +100,14 @@
       "category": "historical",
       "rating": 4.5,
       "reviews": 750,
-      "highlights": ["Indo-Islamic Architecture", "Ancient Engineering", "Cool Retreat"]
+      "highlights": ["Indo-Islamic Architecture", "Ancient Engineering", "Cool Retreat"],
+      "detailedDescription": "Adalaj Stepwell is a stepwell built in 1498 in the village of Adalaj. The stepwell was built by Queen Rudabai, wife of Veer Singh of the Vaghela dynasty. It is a fine example of Indian architecture and culture. Built in Indo-Islamic architectural style, the stepwell is five stories deep. The stepwell has been designed as an inverted temple highlighting the sanctity of water. It was used as a resting place for travelers and caravans along the trade route.",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Akshardham Temple", "Indroda Nature Park", "Gandhinagar Capital Complex"],
+      "howToReach": "18 km from Ahmedabad. Regular bus services available from Ahmedabad.",
+      "tips": ["Visit early morning for photography", "Explore the intricate carvings", "Learn about water conservation techniques", "Carry water and comfortable shoes"]
     },
     {
       "id": 7,
@@ -76,7 +118,14 @@
       "category": "historical",
       "rating": 4.4,
       "reviews": 920,
-      "highlights": ["Mahatma Gandhi", "Freedom Struggle", "Museum"]
+      "highlights": ["Mahatma Gandhi", "Freedom Struggle", "Museum"],
+      "detailedDescription": "Sabarmati Ashram, also known as Gandhi Ashram, was one of the residences of Mahatma Gandhi. It was from here that Gandhi led the Dandi march in 1930. Now a museum, it houses Gandhi's living quarters and various artifacts including his letters, photographs, and spinning wheel. The ashram also has a library and research center. The Hriday Kunj, Gandhi's cottage, has been preserved exactly as it was during his stay.",
+      "timings": "8:30 AM - 6:30 PM",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Riverfront", "Sidi Saiyyed Mosque", "Calico Museum"],
+      "howToReach": "Within Ahmedabad city. Well connected by public transport.",
+      "tips": ["Take guided tour for better understanding", "Visit museum and library", "Attend prayer meetings", "Photography allowed in most areas"]
     },
     {
       "id": 8,
@@ -87,7 +136,14 @@
       "category": "beach",
       "rating": 4.3,
       "reviews": 680,
-      "highlights": ["Pristine Beach", "Vijay Vilas Palace", "Water Sports"]
+      "highlights": ["Pristine Beach", "Vijay Vilas Palace", "Water Sports"],
+      "detailedDescription": "Mandvi Beach is a beautiful beach located in the Kutch district. The beach is known for its pristine white sand and calm waters. The historic Vijay Vilas Palace, built in 1920, overlooks the beach and serves as a major attraction. The beach offers various water sports activities including camel rides, horse rides, and jet skiing. The area is also famous for its shipbuilding industry where traditional wooden ships are still built.",
+      "timings": "24 hours",
+      "entryFee": "Free (Palace entry: ₹25)",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Vijay Vilas Palace", "Shyamji Krishna Varma Memorial", "Mandvi Port"],
+      "howToReach": "60 km from Bhuj. Regular bus services available.",
+      "tips": ["Visit palace during sunset", "Try local seafood", "Enjoy camel rides on beach", "Carry sun protection"]
     },
     {
       "id": 9,
@@ -98,7 +154,14 @@
       "category": "historical",
       "rating": 4.6,
       "reviews": 540,
-      "highlights": ["UNESCO Site", "Medieval Architecture", "Trekking"]
+      "highlights": ["UNESCO Site", "Medieval Architecture", "Trekking"],
+      "detailedDescription": "Champaner-Pavagadh Archaeological Park is a UNESCO World Heritage Site that includes the remains of the 16th-century capital city of Gujarat. The site includes fortifications, palaces, religious buildings, residential precincts, agricultural structures and water installations. Pavagadh Hill has great historical and religious significance. The Kalika Mata Temple atop the hill is reached by a ropeway and attracts thousands of devotees.",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹25 for Indians, ₹300 for Foreigners",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Kalika Mata Temple", "Jami Masjid", "Sahar ki Masjid"],
+      "howToReach": "50 km from Vadodara. Regular bus services available.",
+      "tips": ["Take ropeway to Pavagadh Hill", "Explore ancient ruins", "Carry water for trekking", "Visit early morning"]
     },
     {
       "id": 10,
@@ -109,7 +172,14 @@
       "category": "hillstation",
       "rating": 4.2,
       "reviews": 430,
-      "highlights": ["Hill Station", "Tribal Culture", "Pleasant Climate"]
+      "highlights": ["Hill Station", "Tribal Culture", "Pleasant Climate"],
+      "detailedDescription": "Saputara is the only hill station in Gujarat, located at an altitude of 875 meters above sea level. The name Saputara means 'Abode of Serpents' referring to the snake images carved on the banks of river Sarpaganga. The place is known for its pleasant climate, beautiful sunrise and sunset points, boating facilities, and rich tribal culture. The area is inhabited by various tribal communities who maintain their traditional lifestyle.",
+      "timings": "24 hours",
+      "entryFee": "Free",
+      "bestTimeToVisit": "March to June, October to January",
+      "nearbyAttractions": ["Sunset Point", "Table Land", "Lake Garden"],
+      "howToReach": "164 km from Surat. Regular bus services available.",
+      "tips": ["Visit tribal villages", "Enjoy boat rides", "Try local tribal cuisine", "Carry warm clothes in winter"]
     },
     {
       "id": 11,
@@ -120,7 +190,14 @@
       "category": "cultural",
       "rating": 4.4,
       "reviews": 720,
-      "highlights": ["Handicrafts", "Cultural Heritage", "Museums"]
+      "highlights": ["Handicrafts", "Cultural Heritage", "Museums"],
+      "detailedDescription": "Bhuj is the cultural capital of Kutch and serves as the gateway to the Great Rann of Kutch. The city is famous for its handicrafts, museums, and palaces. Despite the devastating earthquake in 2001, Bhuj has rebuilt itself while preserving its cultural heritage. The city is known for its traditional crafts like Ajrakh printing, Bandhani, mirror work, and embroidery. The old city area still retains its traditional charm.",
+      "timings": "24 hours",
+      "entryFee": "Free (Museum entries vary)",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Aina Mahal", "Prag Mahal", "Kutch Museum"],
+      "howToReach": "Well connected by road, rail, and air. Regular flights from Mumbai and Delhi.",
+      "tips": ["Visit handicraft villages", "Shop for traditional textiles", "Explore museums and palaces", "Try Kutchi cuisine"]
     },
     {
       "id": 12,
@@ -131,7 +208,68 @@
       "category": "monument",
       "rating": 4.5,
       "reviews": 1800,
-      "highlights": ["World's Tallest Statue", "Valley of Flowers", "River Activities"]
+      "highlights": ["World's Tallest Statue", "Valley of Flowers", "River Activities"],
+      "detailedDescription": "The Statue of Unity is a monument dedicated to Indian statesman and independence activist Sardar Vallabhbhai Patel. At 182 meters, it is the world's tallest statue. The statue is surrounded by an artificial lake and offers breathtaking views of the Sardar Sarovar Dam and Satpura range. The complex includes a museum, valley of flowers, river cruise, helicopter rides, and various adventure activities. The light and sound show in the evening is spectacular.",
+      "timings": "8:00 AM - 6:00 PM",
+      "entryFee": "₹150 (High speed elevator: ₹380 additional)",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Sardar Sarovar Dam", "Valley of Flowers", "Shoolpaneshwar Wildlife Sanctuary"],
+      "howToReach": "90 km from Vadodara. Helicopter services available from Ahmedabad.",
+      "tips": ["Book tickets online in advance", "Take high speed elevator to viewing gallery", "Enjoy river cruise", "Watch evening light and sound show"]
+    },
+    {
+      "id": 13,
+      "name": "Porbandar",
+      "description": "Birthplace of Mahatma Gandhi with beautiful beaches and historical significance",
+      "location": "Porbandar",
+      "imageUrl": "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=800&h=600&fit=crop",
+      "category": "historical",
+      "rating": 4.3,
+      "reviews": 650,
+      "highlights": ["Gandhi's Birthplace", "Beaches", "Historical Sites"],
+      "detailedDescription": "Porbandar is the birthplace of Mahatma Gandhi and holds great historical significance. The city has a beautiful coastline along the Arabian Sea and is known for its beaches and temples. Kirti Mandir, the house where Gandhi was born, is now a memorial. The city also has several beautiful temples and the Porbandar Beach is perfect for evening walks. The city combines historical importance with natural beauty.",
+      "timings": "24 hours",
+      "entryFee": "Free (Museum entry: ₹10)",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Kirti Mandir", "Sudama Temple", "Porbandar Beach"],
+      "howToReach": "Well connected by road and rail. Airport available with limited connectivity.",
+      "tips": ["Visit Kirti Mandir", "Enjoy sunset at beach", "Try local seafood", "Learn about Gandhi's early life"]
+    },
+    {
+      "id": 14,
+      "name": "Vadodara",
+      "description": "Cultural city with magnificent palaces, museums, and gardens",
+      "location": "Vadodara",
+      "imageUrl": "https://images.unsplash.com/photo-1466442929976-97f336a657be?w=800&h=600&fit=crop",
+      "category": "cultural",
+      "rating": 4.4,
+      "reviews": 890,
+      "highlights": ["Palaces", "Museums", "Cultural Heritage"],
+      "detailedDescription": "Vadodara, also known as Baroda, is the cultural capital of Gujarat. The city is known for its palaces, museums, parks, and educational institutions. The Laxmi Vilas Palace, built by Maharaja Sayajirao Gaekwad III, is one of the most magnificent palaces in India. The city has a rich cultural heritage and is home to the famous MS University. The Sayaji Garden and Baroda Museum are other major attractions.",
+      "timings": "24 hours",
+      "entryFee": "Free (Palace and museum entries vary)",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": ["Laxmi Vilas Palace", "Sayaji Garden", "Baroda Museum"],
+      "howToReach": "Well connected by road, rail, and air. Regular flights from major cities.",
+      "tips": ["Visit Laxmi Vilas Palace", "Explore museums", "Attend cultural events", "Try local cuisine"]
+    },
+    {
+      "id": 15,
+      "name": "Sasan Gir",
+      "description": "Wildlife sanctuary famous for Asiatic lions and diverse flora and fauna",
+      "location": "Junagadh",
+      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=800&h=600&fit=crop",
+      "category": "wildlife",
+      "rating": 4.6,
+      "reviews": 1100,
+      "highlights": ["Asiatic Lions", "Safari", "Wildlife Photography"],
+      "detailedDescription": "Sasan Gir Wildlife Sanctuary is the last abode of the Asiatic lions. The sanctuary spans over 1,412 square kilometers and is home to over 500 lions. Apart from lions, the sanctuary houses leopards, sambar deer, chital, nilgai, wild boar, and over 300 bird species. The sanctuary offers jeep safaris and walking trails. The interpretation zone at Devaliya provides a guaranteed wildlife viewing experience.",
+      "timings": "6:00 AM - 9:00 AM, 3:00 PM - 6:00 PM",
+      "entryFee": "₹80 per person + Safari charges",
+      "bestTimeToVisit": "December to March",
+      "nearbyAttractions": ["Devaliya Safari Park", "Kankai Mata Temple", "Tulsi Shyam Temple"],
+      "howToReach": "65 km from Junagadh. Regular bus services available.",
+      "tips": ["Book safari in advance", "Carry camera with telephoto lens", "Follow safari guidelines", "Visit interpretation zone"]
     }
   ],
   "experiences": [
