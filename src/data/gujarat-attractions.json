@@ -10,14 +10,155 @@
       "category": "historical",
       "rating": 4.8,
       "reviews": 1250,
-      "highlights": ["UNESCO World Heritage Site", "Ancient Architecture", "Photography"],
-      "detailedDescription": "Rani ki Vav, literally 'Queen's Stepwell', is an intricately constructed stepwell situated in Patan. Built in the 11th century AD in the memory of Bhimdev I, it is considered one of the finest examples of stepwell architecture in Gujarat. The stepwell was constructed during the reign of the Solanki dynasty. Most of the sculptures are in devotion to Vishnu, in the forms of Dus-avatar (ten incarnations of Vishnu) and others related to Vishnu mythology.",
+      "highlights": [
+        "UNESCO World Heritage Site",
+        "Ancient Architecture",
+        "Photography"
+      ],
+      "detailedDescription": "Rani ki Vav, literally 'Queen's Stepwell', is an intricately constructed stepwell situated in Patan. Built in the 11th century AD in the memory of Bhimdev I, it is considered one of the finest examples of stepwell architecture in Gujarat.",
       "timings": "6:00 AM - 6:00 PM",
       "entryFee": "₹40 for Indians, ₹600 for Foreigners",
       "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Patan Patola Heritage Museum", "Sahastralinga Talav", "Hemchandra Acharya North Gujarat University"],
+      "nearbyAttractions": [
+        "Patan Patola Heritage Museum",
+        "Sahastralinga Talav",
+        "Hemchandra Acharya North Gujarat University"
+      ],
       "howToReach": "Patan is well connected by road from Ahmedabad (125 km). Regular bus services are available.",
-      "tips": ["Visit early morning for better lighting and fewer crowds", "Carry water and sun protection", "Photography is allowed with additional charges"]
+      "tips": [
+        "Visit early morning for better lighting and fewer crowds",
+        "Carry water and sun protection",
+        "Photography is allowed with additional charges"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1800,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": [
+              "AC",
+              "Local Driver",
+              "Fuel"
+            ]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2500,
+            "description": "Luxury sedan with extra comfort for up to 4 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles"
+            ]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3500,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles",
+              "Wi-Fi"
+            ]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Rani ki Vav UNESCO site",
+            "duration": "2-3 hours",
+            "description": "Explore the intricate architecture and sculptures of this ancient stepwell"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Patan Patola Heritage",
+            "duration": "2-3 hours",
+            "description": "Experience local cuisine and visit the famous Patola saree weaving center"
+          },
+          {
+            "time": "evening",
+            "activity": "Sahastralinga Talav",
+            "duration": "1-2 hours",
+            "description": "Visit the historic water tank and enjoy sunset views"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Detailed Rani ki Vav Tour",
+            "duration": "2-3 hours",
+            "description": "Guided tour explaining the mythology behind the sculptures"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Local Market and Craft Tour",
+            "duration": "2-3 hours",
+            "description": "Explore Patan's markets and traditional craft workshops"
+          },
+          {
+            "time": "evening",
+            "activity": "Cultural Program",
+            "duration": "2 hours",
+            "description": "Watch traditional Gujarati folk performances"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Luxury Palace Hotel",
+          "rating": 5,
+          "pricePerNight": 15000,
+          "amenities": [
+            "Swimming Pool",
+            "Spa",
+            "Restaurant",
+            "Gym",
+            "WiFi"
+          ],
+          "images": [
+            "/hotels/luxury-palace-1.jpg",
+            "/hotels/luxury-palace-2.jpg",
+            "/hotels/luxury-palace-3.jpg"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Comfort Inn",
+          "rating": 4,
+          "pricePerNight": 8000,
+          "amenities": [
+            "Restaurant",
+            "WiFi",
+            "Parking",
+            "Room Service"
+          ],
+          "images": [
+            "/hotels/comfort-inn-1.jpg",
+            "/hotels/comfort-inn-2.jpg"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Budget Stay",
+          "rating": 3,
+          "pricePerNight": 3000,
+          "amenities": [
+            "WiFi",
+            "Basic Breakfast",
+            "Parking"
+          ],
+          "images": [
+            "/hotels/budget-stay-1.jpg"
+          ]
+        }
+      ]
     },
     {
       "id": 2,
@@ -28,14 +169,177 @@
       "category": "wildlife",
       "rating": 4.7,
       "reviews": 890,
-      "highlights": ["Asiatic Lions", "Wildlife Safari", "Bird Watching"],
+      "highlights": [
+        "Asiatic Lions",
+        "Wildlife Safari",
+        "Bird Watching"
+      ],
       "detailedDescription": "Gir National Park and Wildlife Sanctuary is a forest and national park near Talala Gir in Gujarat. It is the sole home of the pure Asiatic lions and is considered one of the most important protected areas in Asia due to its supported species. The park was established in 1965 with a total area of 1,412 km². Apart from lions, the park is home to over 200 bird species, leopards, sloth bears, and various deer species.",
       "timings": "6:00 AM - 9:00 AM, 3:00 PM - 6:00 PM",
       "entryFee": "₹80 per person + Safari charges ₹1,575 per gypsy",
       "bestTimeToVisit": "December to March",
-      "nearbyAttractions": ["Somnath Temple", "Devaliya Safari Park", "Kankai Mata Temple"],
-      "howToReach": "Nearest railway station is Junagadh (60 km). Rajkot airport is 160 km away.",
-      "tips": ["Book safari in advance", "Carry binoculars for wildlife viewing", "Maintain silence during safari", "Wear earth-colored clothing"]
+      "nearbyAttractions": [
+        "Somnath Temple",
+        "Devaliya Safari Park",
+        "Kankai Mata Temple"
+      ],
+      "howToReach": "Nearest railway station is Junagadh (60 km). Rajkot airport is 160 km away. Regular buses and taxis available from Junagadh.",
+      "tips": [
+        "Book safari in advance through official website",
+        "Carry binoculars for wildlife viewing",
+        "Maintain silence during safari",
+        "Wear earth-colored clothing"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 2000,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": [
+              "AC",
+              "Local Driver",
+              "Fuel"
+            ]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2800,
+            "description": "Luxury sedan with extra comfort for up to 4 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles"
+            ]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 4000,
+            "description": "Spacious vehicle for up to 6 passengers, ideal for safari routes",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles",
+              "Wi-Fi"
+            ]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 50,
+            "description": "Affordable public transport from Junagadh to Sasan Gir",
+            "includes": [
+              "Basic Seating"
+            ]
+          },
+          {
+            "type": "Ola/Uber",
+            "pricePerKm": 15,
+            "description": "On-demand cab service from Junagadh or Rajkot",
+            "includes": [
+              "AC",
+              "App Booking"
+            ]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Morning Jeep Safari in Gir National Park",
+            "duration": "3 hours",
+            "description": "Embark on a guided safari to spot Asiatic lions, leopards, and birds"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Visit Devaliya Safari Park",
+            "duration": "2-3 hours",
+            "description": "Enjoy local cuisine and explore the fenced park for guaranteed wildlife sightings"
+          },
+          {
+            "time": "evening",
+            "activity": "Tribal Village Tour",
+            "duration": "2 hours",
+            "description": "Interact with local Siddi or Maldhari tribes and learn about their culture"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Bird Watching at Kamleshwar Dam",
+            "duration": "2-3 hours",
+            "description": "Explore the reservoir area within Gir for bird watching and scenic views"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Visit Kankai Mata Temple",
+            "duration": "2-3 hours",
+            "description": "Visit the sacred temple inside Gir forest after a traditional meal"
+          },
+          {
+            "time": "evening",
+            "activity": "Cultural Evening at Resort",
+            "duration": "2 hours",
+            "description": "Enjoy Gujarati folk music and dance performances at your resort"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Gir Lion Lodge",
+          "rating": 5,
+          "pricePerNight": 18000,
+          "amenities": [
+            "Swimming Pool",
+            "Restaurant",
+            "Spa",
+            "WiFi",
+            "Safari Booking Desk"
+          ],
+          "images": [
+            "/hotels/gir-lion-lodge-1.jpg",
+            "/hotels/gir-lion-lodge-2.jpg",
+            "/hotels/gir-lion-lodge-3.jpg"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Sasan Gir Resort",
+          "rating": 4,
+          "pricePerNight": 10000,
+          "amenities": [
+            "Restaurant",
+            "WiFi",
+            "Parking",
+            "Room Service",
+            "Garden"
+          ],
+          "images": [
+            "/hotels/sasan-gir-resort-1.jpg",
+            "/hotels/sasan-gir-resort-2.jpg"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Budget Eco Camp",
+          "rating": 3,
+          "pricePerNight": 4000,
+          "amenities": [
+            "WiFi",
+            "Basic Breakfast",
+            "Parking",
+            "Shared Lounge"
+          ],
+          "images": [
+            "/hotels/budget-eco-camp-1.jpg"
+          ]
+        }
+      ]
     },
     {
       "id": 3,
@@ -46,14 +350,177 @@
       "category": "natural",
       "rating": 4.9,
       "reviews": 2100,
-      "highlights": ["Salt Desert", "Rann Utsav", "Full Moon Nights"],
+      "highlights": [
+        "Salt Desert",
+        "Rann Utsav",
+        "Full Moon Nights"
+      ],
       "detailedDescription": "The Great Rann of Kutch is a salt marsh in the Thar Desert in the Kutch District. It is the largest salt desert in the world, spanning over 7,500 square kilometers. During monsoon, the area gets submerged in water and during winters, the water dries up leaving behind a white salt desert. The Rann Utsav, a cultural festival, is organized here from November to February showcasing the rich culture of Gujarat through folk dances, music, handicrafts, and local cuisine.",
       "timings": "24 hours (Festival timings: 5:30 PM - 10:30 PM)",
       "entryFee": "Free (Festival entry: ₹100-500 depending on package)",
       "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Kala Dungar", "Wild Ass Sanctuary", "Fossil Park"],
-      "howToReach": "Bhuj is the nearest city (80 km). Regular buses available from major cities.",
-      "tips": ["Visit during full moon for magical experience", "Book accommodation in advance during festival", "Carry warm clothes for winter nights", "Respect local customs and environment"]
+      "nearbyAttractions": [
+        "Kala Dungar",
+        "Wild Ass Sanctuary",
+        "Fossil Park"
+      ],
+      "howToReach": "Bhuj is the nearest city (80 km). Regular buses and taxis available from Bhuj. Bhuj airport and railway station are well-connected.",
+      "tips": [
+        "Visit during full moon for magical experience",
+        "Book accommodation in advance during festival",
+        "Carry warm clothes for winter nights",
+        "Respect local customs and environment"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 2200,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": [
+              "AC",
+              "Local Driver",
+              "Fuel"
+            ]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 3000,
+            "description": "Luxury sedan with extra comfort for up to 4 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles"
+            ]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 4500,
+            "description": "Spacious vehicle for up to 6 passengers, suitable for desert terrain",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles",
+              "Wi-Fi"
+            ]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 70,
+            "description": "Public transport from Bhuj to Dhordo (Rann Utsav site)",
+            "includes": [
+              "Basic Seating"
+            ]
+          },
+          {
+            "type": "Shared Jeep",
+            "pricePerDay": 1000,
+            "description": "Shared transport for desert exploration",
+            "includes": [
+              "Local Driver",
+              "Fuel"
+            ]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Great Rann of Kutch",
+            "duration": "2-3 hours",
+            "description": "Explore the vast white salt desert and capture stunning photographs"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Handicraft Village Tour",
+            "duration": "2-3 hours",
+            "description": "Enjoy Kutchi cuisine and visit local artisan villages to see mirror work and embroidery"
+          },
+          {
+            "time": "evening",
+            "activity": "Rann Utsav Cultural Program",
+            "duration": "3 hours",
+            "description": "Attend folk dances, music performances, and shop at handicraft stalls"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Kala Dungar Sunrise Tour",
+            "duration": "2-3 hours",
+            "description": "Visit the highest point in Kutch for panoramic views of the Rann"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Wild Ass Sanctuary",
+            "duration": "3 hours",
+            "description": "Explore the sanctuary to spot Indian wild ass and migratory birds"
+          },
+          {
+            "time": "evening",
+            "activity": "Star Gazing in the Desert",
+            "duration": "2 hours",
+            "description": "Experience a clear night sky with guided stargazing sessions"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Rann Utsav Luxury Tent",
+          "rating": 5,
+          "pricePerNight": 20000,
+          "amenities": [
+            "AC Tents",
+            "Restaurant",
+            "Cultural Shows",
+            "WiFi",
+            "Guided Tours"
+          ],
+          "images": [
+            "/hotels/rann-utsav-tent-1.jpg",
+            "/hotels/rann-utsav-tent-2.jpg",
+            "/hotels/rann-utsav-tent-3.jpg"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Kutch Desert Resort",
+          "rating": 4,
+          "pricePerNight": 12000,
+          "amenities": [
+            "Restaurant",
+            "WiFi",
+            "Parking",
+            "Campfire",
+            "Desert Safari"
+          ],
+          "images": [
+            "/hotels/kutch-desert-resort-1.jpg",
+            "/hotels/kutch-desert-resort-2.jpg"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Budget Homestay",
+          "rating": 3,
+          "pricePerNight": 5000,
+          "amenities": [
+            "WiFi",
+            "Basic Breakfast",
+            "Parking",
+            "Local Guide"
+          ],
+          "images": [
+            "/hotels/budget-homestay-1.jpg"
+          ]
+        }
+      ]
     },
     {
       "id": 4,
@@ -64,14 +531,176 @@
       "category": "religious",
       "rating": 4.6,
       "reviews": 1580,
-      "highlights": ["Jyotirlinga", "Arabian Sea", "Ancient Temple"],
+      "highlights": [
+        "Jyotirlinga",
+        "Arabian Sea",
+        "Ancient Temple"
+      ],
       "detailedDescription": "Somnath Temple is one of the most sacred pilgrimage sites for Hindus and is believed to be the first among the twelve Jyotirlinga shrines of Shiva. The temple has been destroyed and rebuilt several times. The current structure was rebuilt in 1951. Located on the shores of the Arabian Sea, the temple offers a magnificent view of the ocean. The evening aarti and the sound and light show depicting the temple's history are major attractions.",
       "timings": "6:00 AM - 9:00 PM",
       "entryFee": "Free",
       "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Bhalka Tirth", "Triveni Sangam", "Somnath Beach"],
-      "howToReach": "Veraval railway station is 5 km away. Regular buses from Ahmedabad (400 km).",
-      "tips": ["Attend evening aarti for spiritual experience", "Watch sound and light show", "Photography inside temple is restricted", "Dress modestly"]
+      "nearbyAttractions": [
+        "Bhalka Tirth",
+        "Triveni Sangam",
+        "Somnath Beach"
+      ],
+      "howToReach": "Veraval railway station is 5 km away. Regular buses and taxis from Ahmedabad (400 km). Diu airport is 85 km away.",
+      "tips": [
+        "Attend evening aarti for spiritual experience",
+        "Watch sound and light show",
+        "Photography inside temple is restricted",
+        "Dress modestly"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 2500,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": [
+              "AC",
+              "Local Driver",
+              "Fuel"
+            ]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 3500,
+            "description": "Luxury sedan with extra comfort for up to 4 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles"
+            ]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 5000,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles",
+              "Wi-Fi"
+            ]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 60,
+            "description": "Public transport from Veraval to Somnath",
+            "includes": [
+              "Basic Seating"
+            ]
+          },
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 100,
+            "description": "Convenient short-distance transport within Somnath",
+            "includes": [
+              "Local Driver"
+            ]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Somnath Temple",
+            "duration": "2 hours",
+            "description": "Offer prayers at the sacred Jyotirlinga and explore the temple complex"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Bhalka Tirth",
+            "duration": "2-3 hours",
+            "description": "Enjoy local seafood and visit the site where Lord Krishna left his mortal body"
+          },
+          {
+            "time": "evening",
+            "activity": "Evening Aarti and Sound & Light Show",
+            "duration": "2 hours",
+            "description": "Attend the spiritual aarti and watch the historical show at the temple"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Triveni Sangam and Beach Walk",
+            "duration": "2-3 hours",
+            "description": "Visit the confluence of three rivers and stroll along Somnath Beach"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Local Market",
+            "duration": "2-3 hours",
+            "description": "Savor Gujarati thali and shop for souvenirs in Somnath’s markets"
+          },
+          {
+            "time": "evening",
+            "activity": "Sunset at Somnath Beach",
+            "duration": "1-2 hours",
+            "description": "Enjoy a serene sunset with views of the Arabian Sea"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Somnath Seafront Resort",
+          "rating": 5,
+          "pricePerNight": 16000,
+          "amenities": [
+            "Swimming Pool",
+            "Restaurant",
+            "Spa",
+            "WiFi",
+            "Sea View"
+          ],
+          "images": [
+            "/hotels/somnath-seafront-1.jpg",
+            "/hotels/somnath-seafront-2.jpg",
+            "/hotels/somnath-seafront-3.jpg"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Veraval Heritage Hotel",
+          "rating": 4,
+          "pricePerNight": 9000,
+          "amenities": [
+            "Restaurant",
+            "WiFi",
+            "Parking",
+            "Room Service",
+            "Temple Shuttle"
+          ],
+          "images": [
+            "/hotels/veraval-heritage-1.jpg",
+            "/hotels/veraval-heritage-2.jpg"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Somnath Budget Inn",
+          "rating": 3,
+          "pricePerNight": 3500,
+          "amenities": [
+            "WiFi",
+            "Basic Breakfast",
+            "Parking",
+            "Fan/AC"
+          ],
+          "images": [
+            "/hotels/somnath-budget-inn-1.jpg"
+          ]
+        }
+      ]
     },
     {
       "id": 5,
@@ -82,14 +711,176 @@
       "category": "religious",
       "rating": 4.7,
       "reviews": 1320,
-      "highlights": ["Char Dham", "Lord Krishna", "Pilgrimage"],
+      "highlights": [
+        "Char Dham",
+        "Lord Krishna",
+        "Pilgrimage"
+      ],
       "detailedDescription": "Dwarkadhish Temple, also known as Jagat Mandir, is a Chalukya styled architecture temple dedicated to Lord Krishna. It is one of the Char Dham pilgrimage sites. The temple is believed to be 2,500 years old and the main deity is made of black stone. The temple has 60 pillars supporting the roof and two gateways - Swarg Dwar (north) and Moksha Dwar (south). The flag atop the temple changes 5 times a day.",
       "timings": "6:00 AM - 12:30 PM, 5:00 PM - 9:30 PM",
       "entryFee": "Free",
       "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Beyt Dwarka", "Nageshwar Jyotirlinga", "Rukmini Temple"],
-      "howToReach": "Dwarka railway station is 1 km from temple. Jamnagar airport is 137 km away.",
-      "tips": ["Visit during Janmashtami for grand celebrations", "Book darshan in advance during peak season", "Respect temple customs", "Take boat ride to Beyt Dwarka"]
+      "nearbyAttractions": [
+        "Beyt Dwarka",
+        "Nageshwar Jyotirlinga",
+        "Rukmini Temple"
+      ],
+      "howToReach": "Dwarka railway station is 1 km from temple. Jamnagar airport is 137 km away. Regular buses and taxis from Jamnagar.",
+      "tips": [
+        "Visit during Janmashtami for grand celebrations",
+        "Book darshan in advance during peak season",
+        "Respect temple customs",
+        "Take boat ride to Beyt Dwarka"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 2300,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": [
+              "AC",
+              "Local Driver",
+              "Fuel"
+            ]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 3200,
+            "description": "Luxury sedan with extra comfort for up to 4 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles"
+            ]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 4800,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles",
+              "Wi-Fi"
+            ]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 50,
+            "description": "Public transport from Dwarka city to temple and nearby sites",
+            "includes": [
+              "Basic Seating"
+            ]
+          },
+          {
+            "type": "Ferry to Beyt Dwarka",
+            "pricePerTrip": 200,
+            "description": "Boat service to Beyt Dwarka island",
+            "includes": [
+              "Life Jackets"
+            ]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Dwarkadhish Temple",
+            "duration": "2 hours",
+            "description": "Participate in morning aarti and explore the ancient temple"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Rukmini Temple",
+            "duration": "2-3 hours",
+            "description": "Enjoy Gujarati thali and visit the temple dedicated to Krishna’s consort"
+          },
+          {
+            "time": "evening",
+            "activity": "Sunset at Dwarka Beach",
+            "duration": "1-2 hours",
+            "description": "Relax by the Arabian Sea and watch a serene sunset"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Boat Trip to Beyt Dwarka",
+            "duration": "3-4 hours",
+            "description": "Take a ferry to the island to visit Krishna’s ancient residence"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Nageshwar Jyotirlinga",
+            "duration": "2-3 hours",
+            "description": "Visit one of the 12 Jyotirlingas after a traditional meal"
+          },
+          {
+            "time": "evening",
+            "activity": "Evening Aarti at Dwarkadhish Temple",
+            "duration": "2 hours",
+            "description": "Experience the spiritual evening aarti and temple ambiance"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Dwarka Divine Resort",
+          "rating": 5,
+          "pricePerNight": 17000,
+          "amenities": [
+            "Swimming Pool",
+            "Restaurant",
+            "Spa",
+            "WiFi",
+            "Temple View"
+          ],
+          "images": [
+            "/hotels/dwarka-divine-1.jpg",
+            "/hotels/dwarka-divine-2.jpg",
+            "/hotels/dwarka-divine-3.jpg"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Krishna Inn",
+          "rating": 4,
+          "pricePerNight": 9500,
+          "amenities": [
+            "Restaurant",
+            "WiFi",
+            "Parking",
+            "Room Service",
+            "Shuttle Service"
+          ],
+          "images": [
+            "/hotels/krishna-inn-1.jpg",
+            "/hotels/krishna-inn-2.jpg"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Dwarka Budget Lodge",
+          "rating": 3,
+          "pricePerNight": 4000,
+          "amenities": [
+            "WiFi",
+            "Basic Breakfast",
+            "Parking",
+            "Fan/AC"
+          ],
+          "images": [
+            "/hotels/dwarka-budget-lodge-1.jpg"
+          ]
+        }
+      ]
     },
     {
       "id": 6,
@@ -100,448 +891,188 @@
       "category": "historical",
       "rating": 4.5,
       "reviews": 750,
-      "highlights": ["Indo-Islamic Architecture", "Ancient Engineering", "Cool Retreat"],
+      "highlights": [
+        "Indo-Islamic Architecture",
+        "Ancient Engineering",
+        "Cool Retreat"
+      ],
       "detailedDescription": "Adalaj Stepwell is a stepwell built in 1498 in the village of Adalaj. The stepwell was built by Queen Rudabai, wife of Veer Singh of the Vaghela dynasty. It is a fine example of Indian architecture and culture. Built in Indo-Islamic architectural style, the stepwell is five stories deep. The stepwell has been designed as an inverted temple highlighting the sanctity of water. It was used as a resting place for travelers and caravans along the trade route.",
       "timings": "8:00 AM - 6:00 PM",
       "entryFee": "Free",
       "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Akshardham Temple", "Indroda Nature Park", "Gandhinagar Capital Complex"],
-      "howToReach": "18 km from Ahmedabad. Regular bus services available from Ahmedabad.",
-      "tips": ["Visit early morning for photography", "Explore the intricate carvings", "Learn about water conservation techniques", "Carry water and comfortable shoes"]
-    },
-    {
-      "id": 7,
-      "name": "Sabarmati Ashram",
-      "description": "Historic residence of Mahatma Gandhi, now a museum dedicated to his life and philosophy",
-      "location": "Ahmedabad",
-      "imageUrl": "https://images.unsplash.com/photo-1575804456377-ae0c6b25a14c?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.4,
-      "reviews": 920,
-      "highlights": ["Mahatma Gandhi", "Freedom Struggle", "Museum"],
-      "detailedDescription": "Sabarmati Ashram, also known as Gandhi Ashram, was one of the residences of Mahatma Gandhi. It was from here that Gandhi led the Dandi march in 1930. Now a museum, it houses Gandhi's living quarters and various artifacts including his letters, photographs, and spinning wheel. The ashram also has a library and research center. The Hriday Kunj, Gandhi's cottage, has been preserved exactly as it was during his stay.",
-      "timings": "8:30 AM - 6:30 PM",
-      "entryFee": "Free",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Riverfront", "Sidi Saiyyed Mosque", "Calico Museum"],
-      "howToReach": "Within Ahmedabad city. Well connected by public transport.",
-      "tips": ["Take guided tour for better understanding", "Visit museum and library", "Attend prayer meetings", "Photography allowed in most areas"]
-    },
-    {
-      "id": 8,
-      "name": "Mandvi Beach",
-      "description": "Pristine beach with historic Vijay Vilas Palace and opportunities for water sports",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80",
-      "category": "beach",
-      "rating": 4.3,
-      "reviews": 680,
-      "highlights": ["Pristine Beach", "Vijay Vilas Palace", "Water Sports"],
-      "detailedDescription": "Mandvi Beach is a beautiful beach located in the Kutch district. The beach is known for its pristine white sand and calm waters. The historic Vijay Vilas Palace, built in 1920, overlooks the beach and serves as a major attraction. The beach offers various water sports activities including camel rides, horse rides, and jet skiing. The area is also famous for its shipbuilding industry where traditional wooden ships are still built.",
-      "timings": "24 hours",
-      "entryFee": "Free (Palace entry: ₹25)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Vijay Vilas Palace", "Shyamji Krishna Varma Memorial", "Mandvi Port"],
-      "howToReach": "60 km from Bhuj. Regular bus services available.",
-      "tips": ["Visit palace during sunset", "Try local seafood", "Enjoy camel rides on beach", "Carry sun protection"]
-    },
-    {
-      "id": 9,
-      "name": "Champaner-Pavagadh",
-      "description": "UNESCO World Heritage Archaeological Park with medieval Islamic architecture",
-      "location": "Panchmahal",
-      "imageUrl": "https://images.unsplash.com/photo-1603262110375-b5014656bd8b?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.6,
-      "reviews": 540,
-      "highlights": ["UNESCO Site", "Medieval Architecture", "Trekking"],
-      "detailedDescription": "Champaner-Pavagadh Archaeological Park is a UNESCO World Heritage Site that includes the remains of the 16th-century capital city of Gujarat. The site includes fortifications, palaces, religious buildings, residential precincts, agricultural structures and water installations. Pavagadh Hill has great historical and religious significance. The Kalika Mata Temple atop the hill is reached by a ropeway and attracts thousands of devotees.",
-      "timings": "6:00 AM - 6:00 PM",
-      "entryFee": "₹25 for Indians, ₹300 for Foreigners",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Kalika Mata Temple", "Jami Masjid", "Sahar ki Masjid"],
-      "howToReach": "50 km from Vadodara. Regular bus services available.",
-      "tips": ["Take ropeway to Pavagadh Hill", "Explore ancient ruins", "Carry water for trekking", "Visit early morning"]
-    },
-    {
-      "id": 10,
-      "name": "Saputara Hill Station",
-      "description": "Gujarat's only hill station offering pleasant climate and tribal culture experiences",
-      "location": "Dang",
-      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
-      "category": "hillstation",
-      "rating": 4.2,
-      "reviews": 430,
-      "highlights": ["Hill Station", "Tribal Culture", "Pleasant Climate"],
-      "detailedDescription": "Saputara is the only hill station in Gujarat, located at an altitude of 875 meters above sea level. The name Saputara means 'Abode of Serpents' referring to the snake images carved on the banks of river Sarpaganga. The place is known for its pleasant climate, beautiful sunrise and sunset points, boating facilities, and rich tribal culture. The area is inhabited by various tribal communities who maintain their traditional lifestyle.",
-      "timings": "24 hours",
-      "entryFee": "Free",
-      "bestTimeToVisit": "March to June, October to January",
-      "nearbyAttractions": ["Sunset Point", "Table Land", "Lake Garden"],
-      "howToReach": "164 km from Surat. Regular bus services available.",
-      "tips": ["Visit tribal villages", "Enjoy boat rides", "Try local tribal cuisine", "Carry warm clothes in winter"]
-    },
-    {
-      "id": 11,
-      "name": "Bhuj",
-      "description": "Cultural capital of Kutch with traditional handicrafts and earthquake memorial",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1582719471137-c3967ffb1c42?w=800&h=600&fit=crop&q=80",
-      "category": "cultural",
-      "rating": 4.4,
-      "reviews": 720,
-      "highlights": ["Handicrafts", "Cultural Heritage", "Museums"],
-      "detailedDescription": "Bhuj is the cultural capital of Kutch and serves as the gateway to the Great Rann of Kutch. The city is famous for its handicrafts, museums, and palaces. Despite the devastating earthquake in 2001, Bhuj has rebuilt itself while preserving its cultural heritage. The city is known for its traditional crafts like Ajrakh printing, Bandhani, mirror work, and embroidery. The old city area still retains its traditional charm.",
-      "timings": "24 hours",
-      "entryFee": "Free (Museum entries vary)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Aina Mahal", "Prag Mahal", "Kutch Museum"],
-      "howToReach": "Well connected by road, rail, and air. Regular flights from Mumbai and Delhi.",
-      "tips": ["Visit handicraft villages", "Shop for traditional textiles", "Explore museums and palaces", "Try Kutchi cuisine"]
-    },
-    {
-      "id": 12,
-      "name": "Statue of Unity",
-      "description": "World's tallest statue dedicated to Sardar Vallabhbhai Patel with museum and valley of flowers",
-      "location": "Kevadia",
-      "imageUrl": "https://images.unsplash.com/photo-1609396846019-bef7c9b071c5?w=800&h=600&fit=crop&q=80",
-      "category": "monument",
-      "rating": 4.5,
-      "reviews": 1800,
-      "highlights": ["World's Tallest Statue", "Valley of Flowers", "River Activities"],
-      "detailedDescription": "The Statue of Unity is a monument dedicated to Indian statesman and independence activist Sardar Vallabhbhai Patel. At 182 meters, it is the world's tallest statue. The statue is surrounded by an artificial lake and offers breathtaking views of the Sardar Sarovar Dam and Satpura range. The complex includes a museum, valley of flowers, river cruise, helicopter rides, and various adventure activities. The light and sound show in the evening is spectacular.",
-      "timings": "8:00 AM - 6:00 PM",
-      "entryFee": "₹150 (High speed elevator: ₹380 additional)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Sardar Sarovar Dam", "Valley of Flowers", "Shoolpaneshwar Wildlife Sanctuary"],
-      "howToReach": "90 km from Vadodara. Helicopter services available from Ahmedabad.",
-      "tips": ["Book tickets online in advance", "Take high speed elevator to viewing gallery", "Enjoy river cruise", "Watch evening light and sound show"]
-    },
-    {
-      "id": 13,
-      "name": "Porbandar",
-      "description": "Birthplace of Mahatma Gandhi with beautiful beaches and historical significance",
-      "location": "Porbandar",
-      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.3,
-      "reviews": 650,
-      "highlights": ["Gandhi's Birthplace", "Beaches", "Historical Sites"],
-      "detailedDescription": "Porbandar is the birthplace of Mahatma Gandhi and holds great historical significance. The city has a beautiful coastline along the Arabian Sea and is known for its beaches and temples. Kirti Mandir, the house where Gandhi was born, is now a memorial. The city also has several beautiful temples and the Porbandar Beach is perfect for evening walks. The city combines historical importance with natural beauty.",
-      "timings": "24 hours",
-      "entryFee": "Free (Museum entry: ₹10)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Kirti Mandir", "Sudama Temple", "Porbandar Beach"],
-      "howToReach": "Well connected by road and rail. Airport available with limited connectivity.",
-      "tips": ["Visit Kirti Mandir", "Enjoy sunset at beach", "Try local seafood", "Learn about Gandhi's early life"]
-    },
-    {
-      "id": 14,
-      "name": "Vadodara",
-      "description": "Cultural city with magnificent palaces, museums, and gardens",
-      "location": "Vadodara",
-      "imageUrl": "https://images.unsplash.com/photo-1609151162377-794faf68b02f?w=800&h=600&fit=crop&q=80",
-      "category": "cultural",
-      "rating": 4.4,
-      "reviews": 890,
-      "highlights": ["Palaces", "Museums", "Cultural Heritage"],
-      "detailedDescription": "Vadodara, also known as Baroda, is the cultural capital of Gujarat. The city is known for its palaces, museums, parks, and educational institutions. The Laxmi Vilas Palace, built by Maharaja Sayajirao Gaekwad III, is one of the most magnificent palaces in India. The city has a rich cultural heritage and is home to the famous MS University. The Sayaji Garden and Baroda Museum are other major attractions.",
-      "timings": "24 hours",
-      "entryFee": "Free (Palace and museum entries vary)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Laxmi Vilas Palace", "Sayaji Garden", "Baroda Museum"],
-      "howToReach": "Well connected by road, rail, and air. Regular flights from major cities.",
-      "tips": ["Visit Laxmi Vilas Palace", "Explore museums", "Attend cultural events", "Try local cuisine"]
-    },
-    {
-      "id": 15,
-      "name": "Sasan Gir",
-      "description": "Wildlife sanctuary famous for Asiatic lions and diverse flora and fauna",
-      "location": "Junagadh",
-      "imageUrl": "https://images.unsplash.com/photo-1566721591366-2d5fba72006d?w=800&h=600&fit=crop&q=80",
-      "category": "wildlife",
-      "rating": 4.6,
-      "reviews": 1100,
-      "highlights": ["Asiatic Lions", "Safari", "Wildlife Photography"],
-      "detailedDescription": "Sasan Gir Wildlife Sanctuary is the last abode of the Asiatic lions. The sanctuary spans over 1,412 square kilometers and is home to over 500 lions. Apart from lions, the sanctuary houses leopards, sambar deer, chital, nilgai, wild boar, and over 300 bird species. The sanctuary offers jeep safaris and walking trails. The interpretation zone at Devaliya provides a guaranteed wildlife viewing experience.",
-      "timings": "6:00 AM - 9:00 AM, 3:00 PM - 6:00 PM",
-      "entryFee": "₹80 per person + Safari charges",
-      "bestTimeToVisit": "December to March",
-      "nearbyAttractions": ["Devaliya Safari Park", "Kankai Mata Temple", "Tulsi Shyam Temple"],
-      "howToReach": "65 km from Junagadh. Regular bus services available.",
-      "tips": ["Book safari in advance", "Carry camera with telephoto lens", "Follow safari guidelines", "Visit interpretation zone"]
-    },
-    {
-      "id": 16,
-      "name": "Akshardham Temple",
-      "description": "Magnificent modern temple complex showcasing Indian architecture and spirituality",
-      "location": "Gandhinagar",
-      "imageUrl": "https://images.unsplash.com/photo-1582632103945-838c6d3d4bfa?w=800&h=600&fit=crop&q=80",
-      "category": "religious",
-      "rating": 4.7,
-      "reviews": 1450,
-      "highlights": ["Modern Architecture", "Cultural Shows", "Spiritual Experience"],
-      "detailedDescription": "Akshardham Temple in Gandhinagar is a stunning example of modern temple architecture dedicated to Bhagwan Swaminarayan. The complex features intricately carved pillars, domes, and arches made from pink sandstone and white marble. The temple houses exhibitions on Indian culture, an IMAX theatre, musical fountain, and beautifully landscaped gardens. The evening water show is particularly spectacular.",
-      "timings": "9:30 AM - 6:30 PM (Closed on Mondays)",
-      "entryFee": "Free (Exhibition and shows have separate charges)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Gandhinagar Capital Complex", "Indroda Nature Park", "Adalaj Stepwell"],
-      "howToReach": "30 km from Ahmedabad. Regular bus services and auto-rickshaws available.",
-      "tips": ["Visit during evening for water show", "Photography restrictions apply inside", "Dress modestly", "Allow full day for complete experience"]
-    },
-    {
-      "id": 17,
-      "name": "Lothal",
-      "description": "Ancient Harappan civilization site with well-preserved dockyard and museum",
-      "location": "Ahmedabad",
-      "imageUrl": "https://images.unsplash.com/photo-1609919122068-f5ac17b7ff5d?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.2,
-      "reviews": 380,
-      "highlights": ["Harappan Civilization", "Ancient Dockyard", "Archaeological Museum"],
-      "detailedDescription": "Lothal is one of the most prominent archaeological sites of the ancient Indus Valley Civilization. Dating back to 3700 BCE, it was one of the world's earliest known docks. The site features remains of a well-planned city with sophisticated drainage system, fire-altars, and the famous dockyard. The on-site museum displays artifacts including seals, pottery, ornaments, and tools that provide insights into the advanced Harappan civilization.",
-      "timings": "9:00 AM - 5:00 PM (Closed on Fridays)",
-      "entryFee": "₹15 for Indians, ₹200 for Foreigners",
-      "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Sabarmati Ashram", "Ahmedabad Heritage Walk", "Kankaria Lake"],
-      "howToReach": "85 km from Ahmedabad. Regular bus services available.",
-      "tips": ["Visit museum first for better understanding", "Carry hat and water", "Hire local guide for detailed history", "Best photography light in morning"]
-    },
-    {
-      "id": 18,
-      "name": "Marine National Park",
-      "description": "India's first marine national park with coral reefs and diverse marine life",
-      "location": "Jamnagar",
-      "imageUrl": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&h=600&fit=crop&q=80",
-      "category": "natural",
-      "rating": 4.4,
-      "reviews": 520,
-      "highlights": ["Marine Life", "Coral Reefs", "Island Hopping"],
-      "detailedDescription": "Marine National Park in the Gulf of Kutch is India's first marine national park, established in 1982. The park consists of 42 islands and covers an area of 458 square kilometers. It's home to diverse marine life including dolphins, whales, sea turtles, and various species of fish. The park also features coral reefs, mangroves, and unique marine ecosystems. Boat rides to different islands offer opportunities for snorkeling and marine wildlife viewing.",
-      "timings": "6:00 AM - 6:00 PM",
-      "entryFee": "₹25 per person + Boat charges ₹1000-2000",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Dwarka", "Bet Dwarka", "Okha Port"],
-      "howToReach": "40 km from Jamnagar. Boat rides available from Jamnagar.",
-      "tips": ["Book boat rides in advance", "Carry snorkeling gear", "Follow marine conservation guidelines", "Best visibility during low tide"]
-    },
-    {
-      "id": 19,
-      "name": "Palitana Temples",
-      "description": "Sacred Jain pilgrimage site with 900+ temples atop Shatrunjaya Hill",
-      "location": "Bhavnagar",
-      "imageUrl": "https://images.unsplash.com/photo-1580932835408-23e2f9c50a0f?w=800&h=600&fit=crop&q=80",
-      "category": "religious",
-      "rating": 4.8,
-      "reviews": 960,
-      "highlights": ["Jain Pilgrimage", "900+ Temples", "Hilltop Location"],
-      "detailedDescription": "Palitana is one of the most sacred pilgrimage sites for Jains, featuring over 900 temples built on Shatrunjaya Hill. The temples were built over a period of 900 years and represent exquisite marble architecture. The main temple is dedicated to Rishabhanatha, the first Jain Tirthankara. The climb involves 3,500 steps and offers panoramic views of the surrounding landscape. The entire hill is considered sacred, and no one is allowed to stay overnight.",
-      "timings": "6:00 AM - 6:00 PM",
-      "entryFee": "Free",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Bhavnagar", "Takhteshwar Temple", "Gandhi Smriti Museum"],
-      "howToReach": "51 km from Bhavnagar. Regular bus services available.",
-      "tips": ["Start early to avoid heat", "Wear comfortable walking shoes", "Carry water and snacks", "Respect Jain customs and traditions"]
-    },
-    {
-      "id": 20,
-      "name": "Girnar Hill",
-      "description": "Sacred mountain with ancient Jain and Hindu temples offering spiritual retreat",
-      "location": "Junagadh",
-      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
-      "category": "religious",
-      "rating": 4.5,
-      "reviews": 780,
-      "highlights": ["Sacred Mountain", "Ancient Temples", "Spiritual Trek"],
-      "detailedDescription": "Girnar is a sacred mountain and major pilgrimage site for both Jains and Hindus. The mountain features a cluster of peaks with numerous ancient temples dating back to the 3rd century BC. The trek involves climbing approximately 10,000 steps to reach the summit. The mountain houses important Jain temples dedicated to Neminatha, the 22nd Tirthankara, and Hindu temples dedicated to Guru Dattatreya. The view from the top is breathtaking.",
-      "timings": "4:00 AM - 8:00 PM",
-      "entryFee": "Free",
-      "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Uparkot Fort", "Mahabat Maqbara", "Junagadh Buddhist Caves"],
-      "howToReach": "5 km from Junagadh city center. Auto-rickshaws and buses available.",
-      "tips": ["Start very early morning", "Carry sufficient water and food", "Wear proper trekking shoes", "Consider ropeway for elderly visitors"]
-    },
-    {
-      "id": 21,
-      "name": "Kankaria Lake",
-      "description": "Historic artificial lake in Ahmedabad with amusement park and cultural activities",
-      "location": "Ahmedabad",
-      "imageUrl": "https://images.unsplash.com/photo-1544966503-7e5ac882e5db?w=800&h=600&fit=crop&q=80",
-      "category": "cultural",
-      "rating": 4.1,
-      "reviews": 890,
-      "highlights": ["Historic Lake", "Amusement Park", "Cultural Events"],
-      "detailedDescription": "Kankaria Lake is the second largest lake in Ahmedabad, built in 1451 during the reign of Sultan Qutb-ud-Din Ahmad Shah II. The lake has been transformed into a major recreational spot with amusement park, zoo, balloon safari, toy train, and various cultural activities. The lakefront features walking tracks, food courts, and regular cultural events. The evening time offers a beautiful view with illuminated surroundings.",
-      "timings": "4:00 AM - 11:00 PM",
-      "entryFee": "Free (Amusement park activities have separate charges)",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Sabarmati Ashram", "Sidi Saiyyed Mosque", "Calico Museum"],
-      "howToReach": "Within Ahmedabad city. Well connected by public transport.",
-      "tips": ["Visit during evening for best experience", "Try balloon safari for aerial views", "Enjoy local street food", "Join morning walk groups"]
-    },
-    {
-      "id": 22,
-      "name": "Modhera Sun Temple",
-      "description": "11th-century temple dedicated to the Hindu Sun God with exquisite architecture",
-      "location": "Mehsana",
-      "imageUrl": "https://images.unsplash.com/photo-1609924658636-c0b5be1b7d80?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.6,
-      "reviews": 670,
-      "highlights": ["Sun Temple", "Ancient Architecture", "Cultural Heritage"],
-      "detailedDescription": "The Modhera Sun Temple is an ancient Hindu temple built in 1026-27 CE during the reign of Bhima I of the Chalukya dynasty. Dedicated to the Hindu Sun God Surya, the temple is designed so that the first rays of the sun fall on the image of Surya at the time of the equinoxes. The temple complex includes the main shrine (Guda Mandapa), assembly hall (Sabha Mandapa), and a stepped tank (Surya Kund). The intricate carvings depict scenes from Hindu mythology.",
-      "timings": "6:00 AM - 6:00 PM",
-      "entryFee": "₹25 for Indians, ₹300 for Foreigners",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Patan", "Rani ki Vav", "Sahastralinga Talav"],
-      "howToReach": "102 km from Ahmedabad. Regular bus services available.",
-      "tips": ["Visit during sunrise for magical experience", "Attend Modhera Dance Festival in January", "Photography allowed with restrictions", "Hire guide for historical insights"]
-    },
-    {
-      "id": 23,
-      "name": "Wild Ass Sanctuary",
-      "description": "Unique sanctuary protecting the endangered Indian Wild Ass in its natural habitat",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1566721591366-2d5fba72006d?w=800&h=600&fit=crop&q=80",
-      "category": "wildlife",
-      "rating": 4.3,
-      "reviews": 420,
-      "highlights": ["Indian Wild Ass", "Unique Ecosystem", "Desert Wildlife"],
-      "detailedDescription": "The Wild Ass Sanctuary, also known as Indian Wild Ass Sanctuary, is spread over 4,954 square kilometers in the Little Rann of Kutch. It's the last refuge of the endangered Indian Wild Ass (Khur). The sanctuary also houses other wildlife including nilgai, chinkara, blackbuck, and various bird species. The unique ecosystem of salt desert provides a distinctive wildlife viewing experience. The sanctuary offers jeep safaris and is best visited during winter months.",
-      "timings": "6:00 AM - 6:00 PM",
-      "entryFee": "₹50 per person + Safari charges",
-      "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Dasada", "Zainabad", "Bajana"],
-      "howToReach": "140 km from Ahmedabad. Private vehicles and tour packages available.",
-      "tips": ["Book safari through forest department", "Carry binoculars for wildlife spotting", "Respect wildlife and maintain distance", "Stay in eco-resorts for better experience"]
-    },
-    {
-      "id": 24,
-      "name": "Velavadar National Park",
-      "description": "Grassland national park famous for blackbucks and diverse bird species",
-      "location": "Bhavnagar",
-      "imageUrl": "https://images.unsplash.com/photo-1493962853295-0fd70327578a?w=800&h=600&fit=crop&q=80",
-      "category": "wildlife",
-      "rating": 4.4,
-      "reviews": 350,
-      "highlights": ["Blackbucks", "Grassland Ecosystem", "Bird Watching"],
-      "detailedDescription": "Velavadar National Park, also known as Blackbuck National Park, is a 34.08 square kilometer protected area established to protect the blackbuck antelope. The park is characterized by vast grasslands and is home to the largest population of blackbucks in India. The park also serves as a wintering ground for the endangered lesser florican and is visited by various migratory birds. The open grasslands provide excellent opportunities for wildlife photography.",
-      "timings": "6:00 AM - 9:00 AM, 4:00 PM - 6:00 PM",
-      "entryFee": "₹25 per person + Vehicle charges",
-      "bestTimeToVisit": "November to March",
-      "nearbyAttractions": ["Bhavnagar", "Palitana", "Alang Ship Breaking Yard"],
-      "howToReach": "72 km from Bhavnagar. Regular bus services available.",
-      "tips": ["Best wildlife viewing during early morning", "Carry telephoto lens for photography", "Visit during winter for migratory birds", "Maintain silence during wildlife spotting"]
-    },
-    {
-      "id": 25,
-      "name": "Kutch Desert Wildlife Sanctuary",
-      "description": "Large protected area in the Great Rann of Kutch with unique desert ecosystem",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1466721591366-2d5fba72006d?w=800&h=600&fit=crop&q=80",
-      "category": "wildlife",
-      "rating": 4.2,
-      "reviews": 290,
-      "highlights": ["Desert Ecosystem", "Migratory Birds", "Salt Desert"],
-      "detailedDescription": "Kutch Desert Wildlife Sanctuary is spread over 7,506 square kilometers in the Great Rann of Kutch. It's one of the largest wildlife sanctuaries in India, encompassing the seasonal saline wetland. During monsoon, the area becomes a breeding ground for flamingos and other waterbirds. In winter, the salt desert provides habitat for various desert-adapted species. The sanctuary is particularly famous for its flamingo population and other migratory birds.",
-      "timings": "Sunrise to Sunset",
-      "entryFee": "₹25 per person",
-      "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Rann of Kutch", "Kala Dungar", "Bhuj"],
-      "howToReach": "100 km from Bhuj. 4WD vehicles recommended for inner areas.",
-      "tips": ["Visit during flamingo season (November-February)", "Carry plenty of water", "Use 4WD vehicles for rough terrain", "Best bird watching during early morning"]
-    },
-    {
-      "id": 26,
-      "name": "Dholavira",
-      "description": "Ancient Harappan city and UNESCO World Heritage Site with remarkable urban planning",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1609396846019-bef7c9b071c5?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.3,
-      "reviews": 280,
-      "highlights": ["Harappan Civilization", "UNESCO Site", "Ancient Urban Planning"],
-      "detailedDescription": "Dholavira is one of the largest and most remarkable archaeological sites of the Indus Valley Civilization, recently declared a UNESCO World Heritage Site. Dating back to 3000 BCE, the city showcases sophisticated urban planning with water conservation systems, stadium-like structures, and well-planned residential areas. The site features the famous Dholavira signboard, one of the world's first and largest signage. The archaeological remains provide fascinating insights into the advanced Harappan civilization.",
-      "timings": "8:00 AM - 6:00 PM",
-      "entryFee": "₹25 for Indians, ₹300 for Foreigners",
-      "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Fossil Park", "Kala Dungar", "Wild Ass Sanctuary"],
-      "howToReach": "220 km from Bhuj. Private vehicles recommended for better accessibility.",
-      "tips": ["Hire a guide for better understanding", "Carry water and sun protection", "Visit the interpretation center first", "Best photography during golden hours"]
-    },
-    {
-      "id": 27,
-      "name": "Shoolpaneshwar Wildlife Sanctuary",
-      "description": "Scenic wildlife sanctuary near Statue of Unity with diverse flora and fauna",
-      "location": "Narmada",
-      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=800&h=600&fit=crop&q=80",
-      "category": "wildlife",
-      "rating": 4.1,
-      "reviews": 320,
-      "highlights": ["Diverse Wildlife", "River Valley", "Nature Trails"],
-      "detailedDescription": "Shoolpaneshwar Wildlife Sanctuary is located near the Statue of Unity and covers an area of 608 square kilometers along the Narmada River valley. The sanctuary is home to various wildlife species including leopards, sloth bears, four-horned antelopes, and over 200 bird species. The dense deciduous forests, river valleys, and hills provide excellent opportunities for nature walks and wildlife viewing. The sanctuary also offers river rafting and adventure activities.",
-      "timings": "6:00 AM - 6:00 PM",
-      "entryFee": "₹40 per person + Vehicle charges",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Statue of Unity", "Sardar Sarovar Dam", "Valley of Flowers"],
-      "howToReach": "100 km from Vadodara. Regular bus services to Kevadia available.",
-      "tips": ["Combine with Statue of Unity visit", "Carry insect repellent", "Book river rafting in advance", "Best wildlife viewing in early morning"]
-    },
-    {
-      "id": 28,
-      "name": "Narayan Sarovar",
-      "description": "Sacred lake and one of the five holy lakes in Hindu religion with ancient temples",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1544966503-7e5ac882e5db?w=800&h=600&fit=crop&q=80",
-      "category": "religious",
-      "rating": 4.2,
-      "reviews": 450,
-      "highlights": ["Sacred Lake", "Ancient Temples", "Pilgrimage Site"],
-      "detailedDescription": "Narayan Sarovar is considered one of the five most sacred lakes in Hindu religion and holds immense religious significance. The lake is surrounded by ancient temples and is believed to have been created by Lord Vishnu himself. The area attracts thousands of pilgrims, especially during Kartik Purnima. The tranquil environment and spiritual atmosphere make it an ideal place for meditation and spiritual retreat. The nearby Koteshwar Temple, the last temple before the Arabian Sea, is also worth visiting.",
-      "timings": "5:00 AM - 8:00 PM",
-      "entryFee": "Free",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Koteshwar Temple", "Lakhpat Fort", "Narayan Sarovar Sanctuary"],
-      "howToReach": "120 km from Bhuj. Private vehicles recommended due to remote location.",
-      "tips": ["Visit during Kartik Purnima for special celebrations", "Respect religious customs", "Carry drinking water", "Combine with Koteshwar Temple visit"]
-    },
-    {
-      "id": 29,
-      "name": "Lakhpat Fort",
-      "description": "Historic 18th-century fort town with massive walls and significant maritime history",
-      "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1603262110375-b5014656bd8b?w=800&h=600&fit=crop&q=80",
-      "category": "historical",
-      "rating": 4.0,
-      "reviews": 190,
-      "highlights": ["Historic Fort", "Maritime History", "Ghost Town"],
-      "detailedDescription": "Lakhpat Fort is an 18th-century fortified town that was once a major port on the Arabian Sea trade route. The fort has massive walls stretching over 7 kilometers and was built to protect the flourishing trade port. Due to the 1819 earthquake, the course of the river changed, and the town gradually became deserted, earning it the nickname 'ghost town'. The fort houses several monuments including tombs, mosques, and the Lakhpat Museum. The panoramic view from the fort walls is spectacular.",
-      "timings": "8:00 AM - 6:00 PM",
-      "entryFee": "₹15 for Indians, ₹200 for Foreigners",
-      "bestTimeToVisit": "November to February",
-      "nearbyAttractions": ["Narayan Sarovar", "Koteshwar Temple", "Gurudwara Chowa Sahib"],
-      "howToReach": "130 km from Bhuj. Private vehicles recommended for remote location.",
-      "tips": ["Explore the fort walls for panoramic views", "Visit the museum for historical insights", "Carry water and snacks", "Best photography during sunset"]
-    },
-    {
-      "id": 30,
-      "name": "Dwarka Beach",
-      "description": "Beautiful beach near the sacred city of Dwarka with sunset views and water activities",
-      "location": "Dwarka",
-      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop&q=80",
-      "category": "beach",
-      "rating": 4.1,
-      "reviews": 520,
-      "highlights": ["Sunset Views", "Water Activities", "Sacred Beach"],
-      "detailedDescription": "Dwarka Beach is located near the sacred city of Dwarka and offers beautiful views of the Arabian Sea. The beach is known for its golden sand and spectacular sunset views. Being close to the holy city, the beach holds religious significance and attracts both pilgrims and tourists. The beach offers opportunities for swimming, water sports, and beachside activities. The lighthouse near the beach provides panoramic views of the coastline and the city.",
-      "timings": "24 hours",
-      "entryFee": "Free",
-      "bestTimeToVisit": "October to March",
-      "nearbyAttractions": ["Dwarkadhish Temple", "Beyt Dwarka", "Rukmini Temple"],
-      "howToReach": "2 km from Dwarka city center. Auto-rickshaws and taxis available.",
-      "tips": ["Best time for sunset photography", "Combine with temple visits", "Try local seafood", "Respect religious sentiments of pilgrims"]
+      "nearbyAttractions": [
+        "Akshardham Temple",
+        "Indroda Nature Park",
+        "Gandhinagar Capital Complex"
+      ],
+      "howToReach": "18 km from Ahmedabad. Regular bus services, taxis, and auto-rickshaws available from Ahmedabad.",
+      "tips": [
+        "Visit early morning for photography",
+        "Explore the intricate carvings",
+        "Learn about water conservation techniques",
+        "Carry water and comfortable shoes"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1500,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": [
+              "AC",
+              "Local Driver",
+              "Fuel"
+            ]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2200,
+            "description": "Luxury sedan with extra comfort for up to 4 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles"
+            ]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3000,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": [
+              "AC",
+              "English Speaking Driver",
+              "Fuel",
+              "Water Bottles",
+              "Wi-Fi"
+            ]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 30,
+            "description": "Public transport from Ahmedabad to Adalaj",
+            "includes": [
+              "Basic Seating"
+            ]
+          },
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 80,
+            "description": "Convenient short-distance transport from Gandhinagar or Ahmedabad",
+            "includes": [
+              "Local Driver"
+            ]
+          },
+          {
+            "type": "Ola/Uber",
+            "pricePerKm": 12,
+            "description": "On-demand cab service from Ahmedabad",
+            "includes": [
+              "AC",
+              "App Booking"
+            ]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Adalaj Stepwell",
+            "duration": "2 hours",
+            "description": "Explore the stunning Indo-Islamic architecture and intricate carvings"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Akshardham Temple",
+            "duration": "3-4 hours",
+            "description": "Enjoy Gujarati cuisine and visit the modern temple complex in Gandhinagar"
+          },
+          {
+            "time": "evening",
+            "activity": "Gandhinagar Capital Complex",
+            "duration": "1-2 hours",
+            "description": "Stroll through the administrative hub and enjoy its modern architecture"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Indroda Nature Park",
+            "duration": "2-3 hours",
+            "description": "Explore the dinosaur park, zoo, and botanical garden"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Local Market",
+            "duration": "2-3 hours",
+            "description": "Savor local snacks and shop for handicrafts in Gandhinagar"
+          },
+          {
+            "time": "evening",
+            "activity": "Evening at Akshardham Water Show",
+            "duration": "2 hours",
+            "description": "Watch the spectacular water show at Akshardham Temple"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Gandhinagar Grand Hotel",
+          "rating": 5,
+          "pricePerNight": 14000,
+          "amenities": [
+            "Swimming Pool",
+            "Restaurant",
+            "Gym",
+            "WiFi",
+            "Business Center"
+          ],
+          "images": [
+            "/hotels/gandhinagar-grand-1.jpg",
+            "/hotels/gandhinagar-grand-2.jpg",
+            "/hotels/gandhinagar-grand-3.jpg"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Adalaj Comfort Hotel",
+          "rating": 4,
+          "pricePerNight": 7000,
+          "amenities": [
+            "Restaurant",
+            "WiFi",
+            "Parking",
+            "Room Service",
+            "Conference Room"
+          ],
+          "images": [
+            "/hotels/adalaj-comfort-1.jpg",
+            "/hotels/adalaj-comfort-2.jpg"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Budget Stay Gandhinagar",
+          "rating": 3,
+          "pricePerNight": 2500,
+          "amenities": [
+            "WiFi",
+            "Basic Breakfast",
+            "Parking",
+            "Fan/AC"
+          ],
+          "images": [
+            "/hotels/budget-gandhinagar-1.jpg"
+          ]
+        }
+      ]
     }
   ],
+
   "experiences": [
     {
       "id": 1,
