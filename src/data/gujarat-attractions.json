@@ -4,66 +4,77 @@
     {
       "id": 1,
       "name": "Rani ki Vav",
-      "description": "UNESCO World Heritage stepwell showcasing intricate architecture and sculptures from the 11th century",
+      "description": "UNESCO World Heritage stepwell showcasing intricate 11th-century architecture and sculptures",
       "location": "Patan",
-      "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop&q=80",
+      "imageUrl": "https://artarch.dalatcamping.net/wp-content/uploads/2024/05/Rani-ki-vav.jpg",
       "category": "historical",
       "rating": 4.8,
-      "reviews": 1250,
+      "reviews": 1300,
       "highlights": [
         "UNESCO World Heritage Site",
-        "Ancient Architecture",
+        "Intricate Carvings",
+        "Stepwell Engineering",
         "Photography"
       ],
-      "detailedDescription": "Rani ki Vav, literally 'Queen's Stepwell', is an intricately constructed stepwell situated in Patan. Built in the 11th century AD in the memory of Bhimdev I, it is considered one of the finest examples of stepwell architecture in Gujarat.",
+      "detailedDescription": "Rani ki Vav, or 'Queen's Stepwell,' is a magnificent stepwell in Patan, built in the 11th century by Queen Udayamati in memory of King Bhimdev I of the Solanki dynasty. A UNESCO World Heritage Site, it exemplifies Gujarat’s architectural brilliance with seven levels of intricately carved panels depicting Vishnu’s avatars, celestial beings, and geometric patterns. The stepwell, once a vital water source, also served as a social and religious gathering place. Restored in the 1980s, it offers visitors a glimpse into ancient engineering and artistry, with its deep corridors and shaded galleries providing a cool retreat.",
       "timings": "6:00 AM - 6:00 PM",
       "entryFee": "₹40 for Indians, ₹600 for Foreigners",
       "bestTimeToVisit": "October to March",
       "nearbyAttractions": [
         "Patan Patola Heritage Museum",
         "Sahastralinga Talav",
+        "Modhera Sun Temple",
+        "Patan Durbar Square",
         "Hemchandra Acharya North Gujarat University"
       ],
-      "howToReach": "Patan is well connected by road from Ahmedabad (125 km). Regular bus services are available.",
+      "howToReach": "Patan is 125 km from Ahmedabad, accessible by road via NH947 (2.5-hour drive). Regular buses operate from Ahmedabad’s Gita Mandir Bus Stand (₹100-150). Patan Railway Station connects to Ahmedabad and Mumbai. The nearest airport is Sardar Vallabhbhai Patel International Airport (Ahmedabad, 130 km). Taxis, auto-rickshaws, and Ola/Uber are available from Ahmedabad or Patan city center.",
       "tips": [
-        "Visit early morning for better lighting and fewer crowds",
-        "Carry water and sun protection",
-        "Photography is allowed with additional charges"
+        "Visit early morning for soft lighting and fewer crowds",
+        "Hire a certified guide for historical insights (₹300-500)",
+        "Wear comfortable shoes for steps",
+        "Carry water, sunscreen, and a hat",
+        "Photography with tripods requires a ₹100 permit",
+        "Respect the site’s sanctity by avoiding littering"
       ],
       "transportation": {
         "taxiOptions": [
           {
             "type": "Standard",
-            "pricePerDay": 1800,
+            "pricePerDay": 1700,
             "description": "Comfortable sedan for up to 4 passengers",
-            "includes": [
-              "AC",
-              "Local Driver",
-              "Fuel"
-            ]
+            "includes": ["AC", "Local Driver", "Fuel"]
           },
           {
             "type": "Premium",
-            "pricePerDay": 2500,
+            "pricePerDay": 2400,
             "description": "Luxury sedan with extra comfort for up to 4 passengers",
-            "includes": [
-              "AC",
-              "English Speaking Driver",
-              "Fuel",
-              "Water Bottles"
-            ]
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
           },
           {
             "type": "SUV",
-            "pricePerDay": 3500,
+            "pricePerDay": 3400,
             "description": "Spacious vehicle for up to 6 passengers",
-            "includes": [
-              "AC",
-              "English Speaking Driver",
-              "Fuel",
-              "Water Bottles",
-              "Wi-Fi"
-            ]
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 30,
+            "description": "Public transport from Patan city to Rani ki Vav",
+            "includes": ["Basic Seating"]
+          },
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 80,
+            "description": "Convenient short-distance transport within Patan",
+            "includes": ["Local Driver"]
+          },
+          {
+            "type": "Ola/Uber",
+            "pricePerKm": 12,
+            "description": "On-demand cab service from Ahmedabad or Patan",
+            "includes": ["AC", "App Booking"]
           }
         ]
       },
@@ -71,41 +82,101 @@
         "1": [
           {
             "time": "morning",
-            "activity": "Visit Rani ki Vav UNESCO site",
+            "activity": "Visit Rani ki Vav",
             "duration": "2-3 hours",
-            "description": "Explore the intricate architecture and sculptures of this ancient stepwell"
+            "description": "Explore the UNESCO stepwell’s intricate carvings and architecture"
           },
           {
             "time": "afternoon",
-            "activity": "Lunch and Patan Patola Heritage",
+            "activity": "Lunch and Patan Patola Heritage Museum",
             "duration": "2-3 hours",
-            "description": "Experience local cuisine and visit the famous Patola saree weaving center"
+            "description": "Savor Gujarati thali and witness the art of Patola saree weaving"
           },
           {
             "time": "evening",
             "activity": "Sahastralinga Talav",
             "duration": "1-2 hours",
-            "description": "Visit the historic water tank and enjoy sunset views"
+            "description": "Visit the historic water tank and enjoy serene sunset views"
           }
         ],
         "2": [
           {
             "time": "morning",
-            "activity": "Detailed Rani ki Vav Tour",
+            "activity": "Guided Rani ki Vav Tour",
             "duration": "2-3 hours",
-            "description": "Guided tour explaining the mythology behind the sculptures"
+            "description": "Join a guided tour to learn about the stepwell’s mythology and sculptures"
           },
           {
             "time": "afternoon",
             "activity": "Local Market and Craft Tour",
             "duration": "2-3 hours",
-            "description": "Explore Patan's markets and traditional craft workshops"
+            "description": "Shop for handicrafts and explore Patan’s traditional workshops"
           },
           {
             "time": "evening",
             "activity": "Cultural Program",
             "duration": "2 hours",
-            "description": "Watch traditional Gujarati folk performances"
+            "description": "Enjoy traditional Gujarati folk dances like Garba or Dandiya"
+          }
+        ],
+        "3": [
+          {
+            "time": "morning",
+            "activity": "Modhera Sun Temple",
+            "duration": "3 hours",
+            "description": "Visit the 11th-century Sun Temple (35 km from Patan) with its stunning architecture"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Local Village Tour",
+            "duration": "3 hours",
+            "description": "Explore nearby villages to see rural life and traditional crafts"
+          },
+          {
+            "time": "evening",
+            "activity": "Patan Durbar Square",
+            "duration": "1-2 hours",
+            "description": "Stroll through Patan’s historic square with ancient palaces"
+          }
+        ],
+        "4": [
+          {
+            "time": "morning",
+            "activity": "Jain Temples of Patan",
+            "duration": "2-3 hours",
+            "description": "Visit ancient Jain temples like Panchasara Parshwanath for spiritual insights"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Textile Market",
+            "duration": "3 hours",
+            "description": "Shop for Patola and Bandhani textiles in Patan’s bustling markets"
+          },
+          {
+            "time": "evening",
+            "activity": "Rani ki Vav Evening Visit",
+            "duration": "1-2 hours",
+            "description": "Revisit the stepwell for evening lighting and photography"
+          }
+        ],
+        "5": [
+          {
+            "time": "morning",
+            "activity": "Sidhpur’s Bohra Architecture",
+            "duration": "3 hours",
+            "description": "Explore Sidhpur (30 km from Patan) for its ornate Dawoodi Bohra havelis"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Bindu Sarovar",
+            "duration": "3 hours",
+            "description": "Visit the sacred lake in Sidhpur and enjoy local snacks"
+          },
+          {
+            "time": "evening",
+            "activity": "Relax at Patan",
+            "duration": "2 hours",
+            "description": "Unwind at a local café or explore Patan’s evening street food"
           }
         ]
       },
@@ -115,17 +186,11 @@
           "name": "Luxury Palace Hotel",
           "rating": 5,
           "pricePerNight": 15000,
-          "amenities": [
-            "Swimming Pool",
-            "Spa",
-            "Restaurant",
-            "Gym",
-            "WiFi"
-          ],
+          "amenities": ["Swimming Pool", "Spa", "Restaurant", "Gym", "WiFi"],
           "images": [
-            "/hotels/luxury-palace-1.jpg",
-            "/hotels/luxury-palace-2.jpg",
-            "/hotels/luxury-palace-3.jpg"
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/601653763.jpg?k=1fd164a362236c77a6b32738c7abb7990bd841de4328fd00a096990754da5cff&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/602436060.jpg?k=671ebe61142b366804ce53885e720111318458fb072e4fddd84f6907010d6e77&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256021065.jpg?k=9f51c55698d8a7b15fe726a8de62819a9560d52f57ece287bc345e073f1a5c0a&o=&hp=1"
           ]
         },
         {
@@ -133,15 +198,10 @@
           "name": "Comfort Inn",
           "rating": 4,
           "pricePerNight": 8000,
-          "amenities": [
-            "Restaurant",
-            "WiFi",
-            "Parking",
-            "Room Service"
-          ],
+          "amenities": ["Restaurant", "WiFi", "Parking", "Room Service"],
           "images": [
-            "/hotels/comfort-inn-1.jpg",
-            "/hotels/comfort-inn-2.jpg"
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/537218641.jpg?k=f4604ae36642c3df5e908a934a89cab4fc77627fe8075753ee036129161f3c2a&o=&hp=1",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC1ytxQsvbF7DVYaW2699KrYnZNJh3ugpOzw&s"
           ]
         },
         {
@@ -149,13 +209,9 @@
           "name": "Budget Stay",
           "rating": 3,
           "pricePerNight": 3000,
-          "amenities": [
-            "WiFi",
-            "Basic Breakfast",
-            "Parking"
-          ],
+          "amenities": ["WiFi", "Basic Breakfast", "Parking"],
           "images": [
-            "/hotels/budget-stay-1.jpg"
+            "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202409130134489026-4a323536_z.jpg?&output-quality=75&downsize=328:180&crop=328:180;11,0&output-format=jpg"
           ]
         }
       ]
@@ -165,7 +221,7 @@
       "name": "Gir National Park",
       "description": "Home to the last remaining population of Asiatic lions in the world",
       "location": "Junagadh",
-      "imageUrl": "https://images.unsplash.com/photo-1549366021-9f761d040a94?w=800&h=600&fit=crop&q=80",
+      "imageUrl": "https://wildlifenest.com/wp-content/uploads/2024/08/Gir-National-Park-1.jpg",
       "category": "wildlife",
       "rating": 4.7,
       "reviews": 890,
@@ -302,9 +358,9 @@
             "Safari Booking Desk"
           ],
           "images": [
-            "/hotels/gir-lion-lodge-1.jpg",
-            "/hotels/gir-lion-lodge-2.jpg",
-            "/hotels/gir-lion-lodge-3.jpg"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5y-SPRahrwgIVvu_X8DxL_Rw6khDVyFpb7w&s",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/580654682.jpg?k=d6a7fef5b02c13fd59b9be73650376dd1da782e2f1014c407bb095d319c955dc&o=&hp=1",
+            "https://r1imghtlak.mmtcdn.com/95fd0670-2dde-4d89-8630-dbac59b8a4c0.jpg"
           ]
         },
         {
@@ -320,8 +376,8 @@
             "Garden"
           ],
           "images": [
-            "/hotels/sasan-gir-resort-1.jpg",
-            "/hotels/sasan-gir-resort-2.jpg"
+            "https://api.blessingsonthenet.com/uploads/hotels/b2980d1a068aba4fc6dd725639cabcb7-1686541681664-Jagira%20Ananta%20Elite,%20Gir.avif",
+            "https://www.holidify.com/images/cmsuploads/compressed/53665678_20221125034237.jpg"
           ]
         },
         {
@@ -336,7 +392,7 @@
             "Shared Lounge"
           ],
           "images": [
-            "/hotels/budget-eco-camp-1.jpg"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ZGtQUISAVo7uovsLnxt3brhp7eKqJfJnRg&s"
           ]
         }
       ]
@@ -346,7 +402,7 @@
       "name": "Rann of Kutch",
       "description": "World's largest salt desert that transforms into a cultural extravaganza during the Rann Utsav",
       "location": "Kutch",
-      "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&h=600&fit=crop&q=80",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5c785b30da4f9f3a0384608aa7ccf1685df1e79434268b8f60d4aa6ef60e7f1d.jpg",
       "category": "natural",
       "rating": 4.9,
       "reviews": 2100,
@@ -527,7 +583,7 @@
       "name": "Somnath Temple",
       "description": "One of the twelve Jyotirlinga shrines and first among them, located on the shores of Arabian Sea",
       "location": "Somnath",
-      "imageUrl": "https://images.unsplash.com/photo-1605379399642-870262d3d051?w=800&h=600&fit=crop&q=80",
+      "imageUrl": "https://www.tourmyindia.com/blog//wp-content/uploads/2018/07/Somnath-Temple-Gujarat-Travel-Experience.jpg",
       "category": "religious",
       "rating": 4.6,
       "reviews": 1580,
@@ -707,7 +763,7 @@
       "name": "Dwarkadhish Temple",
       "description": "Sacred temple dedicated to Lord Krishna, one of the Char Dham pilgrimage sites",
       "location": "Dwarka",
-      "imageUrl": "https://images.unsplash.com/photo-1580932835431-659e5da40c30?w=800&h=600&fit=crop&q=80",
+      "imageUrl": "https://s7ap1.scene7.com/is/image/incredibleindia/dwarkadish-temple-01-attr-hero?qlt=82&ts=1726734784547",
       "category": "religious",
       "rating": 4.7,
       "reviews": 1320,
@@ -887,7 +943,7 @@
       "name": "Adalaj Stepwell",
       "description": "Magnificent 15th-century stepwell showcasing Indo-Islamic architecture",
       "location": "Gandhinagar",
-      "imageUrl": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop&q=80",
+      "imageUrl": "https://sceneloc8.com/wp-content/uploads/2024/03/Adalaj-Stepwell.png",
       "category": "historical",
       "rating": 4.5,
       "reviews": 750,
@@ -1068,6 +1124,1320 @@
           "images": [
             "/hotels/budget-gandhinagar-1.jpg"
           ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Champaner-Pavagadh Archaeological Park",
+      "description": "UNESCO World Heritage Site blending Hindu and Islamic architecture",
+      "location": "Pavagadh",
+      "imageUrl": "https://www.seawatersports.com/images/places/champaner-pavagadh-archaeological-park.jpg",
+      "category": "cultural",
+      "rating": 4.6,
+      "reviews": 900,
+      "highlights": [
+        "UNESCO World Heritage",
+        "Hindu-Islamic Architecture",
+        "Pavagadh Hill Temple"
+      ],
+      "detailedDescription": "Champaner-Pavagadh Archaeological Park, a UNESCO World Heritage Site, is a historical complex combining the medieval city of Champaner and the sacred Pavagadh Hill. Founded in the 8th century, it features mosques, tombs, temples, and stepwells showcasing a unique blend of Hindu and Islamic styles. The Kalika Mata Temple atop Pavagadh Hill is a major pilgrimage site.",
+      "timings": "7:00 AM - 6:00 PM",
+      "entryFee": "₹30 for Indians, ₹500 for Foreigners",
+      "bestTimeToVisit": "October to February",
+      "nearbyAttractions": [
+        "Jama Masjid",
+        "Kevada Masjid",
+        "Lakdi Talav"
+      ],
+      "howToReach": "Located 50 km from Vadodara. Accessible by buses, taxis, or private vehicles from Vadodara or Ahmedabad (145 km).",
+      "tips": [
+        "Wear comfortable shoes for hill climbing",
+        "Visit early to avoid crowds at Kalika Mata Temple",
+        "Hire a guide for historical insights",
+        "Carry water and sunscreen"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1600,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2300,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3200,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 40,
+            "description": "Public transport from Vadodara to Pavagadh",
+            "includes": ["Basic Seating"]
+          },
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 100,
+            "description": "Short-distance transport from Champaner base",
+            "includes": ["Local Driver"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Explore Champaner-Pavagadh",
+            "duration": "3 hours",
+            "description": "Visit Jama Masjid, Kevada Masjid, and stepwells"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Pavagadh Hill Climb",
+            "duration": "3-4 hours",
+            "description": "Enjoy local cuisine and trek to Kalika Mata Temple"
+          },
+          {
+            "time": "evening",
+            "activity": "Lakdi Talav",
+            "duration": "1 hour",
+            "description": "Relax by the scenic lake"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Detailed Site Tour",
+            "duration": "3 hours",
+            "description": "Guided tour of lesser-known monuments like Nagina Masjid"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Local Crafts",
+            "duration": "2-3 hours",
+            "description": "Shop for handicrafts in nearby villages"
+          },
+          {
+            "time": "evening",
+            "activity": "Sunset at Pavagadh",
+            "duration": "2 hours",
+            "description": "Enjoy panoramic views from the hilltop"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Pavagadh Heritage Resort",
+          "rating": 4.5,
+          "pricePerNight": 12000,
+          "amenities": ["Swimming Pool", "Restaurant", "WiFi", "Spa"],
+          "images": ["/hotels/pavagadh-heritage-1.jpg", "/hotels/pavagadh-heritage-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Champaner Comfort Inn",
+          "rating": 4,
+          "pricePerNight": 6000,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/champaner-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Lodge Pavagadh",
+          "rating": 3,
+          "pricePerNight": 2000,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-pavagadh-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Lothal Archaeological Site",
+      "description": "Ancient Harappan city with a remarkable dockyard",
+      "location": "Lothal",
+      "imageUrl": "https://www.ancient-origins.net/sites/default/files/field/image/Lothal-Gujarat-India.jpg",
+      "category": "cultural",
+      "rating": 4.4,
+      "reviews": 600,
+      "highlights": [
+        "Harappan Civilization",
+        "Ancient Dockyard",
+        "Archaeological Museum"
+      ],
+      "detailedDescription": "Lothal, one of the southernmost cities of the ancient Indus Valley Civilization, dates back to 2400 BCE. Known for its sophisticated dockyard, it was a thriving trade center. The site includes a museum showcasing artifacts like seals, pottery, and jewelry, offering insights into ancient urban planning and maritime trade.",
+      "timings": "10:00 AM - 5:00 PM",
+      "entryFee": "₹20 for Indians, ₹300 for Foreigners",
+      "bestTimeToVisit": "November to February",
+      "nearbyAttractions": [
+        "Sarkhej Roza",
+        "Sabarmati Ashram",
+        "Kankaria Lake"
+      ],
+      "howToReach": "80 km from Ahmedabad. Accessible by buses or taxis from Ahmedabad.",
+      "tips": [
+        "Visit the museum first for context",
+        "Wear comfortable shoes for walking",
+        "Carry water and a hat",
+        "Photography is allowed but follow guidelines"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1400,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2100,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 2900,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 50,
+            "description": "Public transport from Ahmedabad to Lothal",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Lothal Site and Museum",
+            "duration": "2-3 hours",
+            "description": "Explore the dockyard and view Harappan artifacts"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Sabarmati Ashram",
+            "duration": "3 hours",
+            "description": "Enjoy local food and visit Gandhi’s ashram"
+          },
+          {
+            "time": "evening",
+            "activity": "Kankaria Lake",
+            "duration": "2 hours",
+            "description": "Relax by the lake with evening activities"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Detailed Lothal Tour",
+            "duration": "2 hours",
+            "description": "Guided tour of archaeological ruins"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Sarkhej Roza",
+            "duration": "3 hours",
+            "description": "Visit the architectural marvel in Ahmedabad"
+          },
+          {
+            "time": "evening",
+            "activity": "Local Market",
+            "duration": "2 hours",
+            "description": "Shop for souvenirs in Ahmedabad"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Lothal Heritage Hotel",
+          "rating": 4.5,
+          "pricePerNight": 11000,
+          "amenities": ["Restaurant", "WiFi", "Spa", "Parking"],
+          "images": ["/hotels/lothal-heritage-1.jpg", "/hotels/lothal-heritage-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Ahmedabad Comfort Stay",
+          "rating": 4,
+          "pricePerNight": 6500,
+          "amenities": ["Restaurant", "WiFi", "Room Service"],
+          "images": ["/hotels/ahmedabad-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Inn Lothal",
+          "rating": 3,
+          "pricePerNight": 1800,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-lothal-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mandvi Beach",
+      "description": "Pristine beach with water sports and royal heritage",
+      "location": "Mandvi",
+      "imageUrl": "https://www.gujarattourism.com/content/dam/gujrattourism/images/june/Mandvi-Beach-thumbnail.jpg",
+      "category": "beach",
+      "rating": 4.3,
+      "reviews": 800,
+      "highlights": [
+        "Water Sports",
+        "Vijay Vilas Palace",
+        "Camel Rides"
+      ],
+      "detailedDescription": "Mandvi Beach, located in the Kutch region, is known for its clean sands and calm waters. It offers water sports like jet skiing and parasailing, along with camel and horse rides. The nearby Vijay Vilas Palace, a royal residence, adds a touch of heritage, making it a perfect blend of leisure and history.",
+      "timings": "Open 24 hours",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": [
+        "Vijay Vilas Palace",
+        "Shyamji Krishna Varma Memorial",
+        "Mandvi Port"
+      ],
+      "howToReach": "70 km from Bhuj. Taxis, buses, or private vehicles available from Bhuj or Ahmedabad (400 km).",
+      "tips": [
+        "Try water sports in the morning",
+        "Visit Vijay Vilas Palace for sunset views",
+        "Carry sunscreen and beachwear",
+        "Avoid swimming during high tide"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1800,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2500,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3500,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 60,
+            "description": "Public transport from Bhuj to Mandvi",
+            "includes": ["Basic Seating"]
+          },
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 120,
+            "description": "Local transport within Mandvi",
+            "includes": ["Local Driver"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Beach Activities",
+            "duration": "3 hours",
+            "description": "Enjoy water sports and camel rides"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Vijay Vilas Palace",
+            "duration": "3 hours",
+            "description": "Savor seafood and tour the royal palace"
+          },
+          {
+            "time": "evening",
+            "activity": "Sunset at Mandvi Beach",
+            "duration": "2 hours",
+            "description": "Relax and watch the sunset"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Mandvi Port",
+            "duration": "2 hours",
+            "description": "Explore the historic shipbuilding yard"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Shyamji Krishna Varma Memorial",
+            "duration": "3 hours",
+            "description": "Visit the memorial of the freedom fighter"
+          },
+          {
+            "time": "evening",
+            "activity": "Beach Evening",
+            "duration": "2 hours",
+            "description": "Stroll along the beach with local snacks"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Mandvi Beach Resort",
+          "rating": 4.5,
+          "pricePerNight": 13000,
+          "amenities": ["Beach Access", "Restaurant", "WiFi", "Spa"],
+          "images": ["/hotels/mandvi-resort-1.jpg", "/hotels/mandvi-resort-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Kutch Comfort Hotel",
+          "rating": 4,
+          "pricePerNight": 7000,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/kutch-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Stay Mandvi",
+          "rating": 3,
+          "pricePerNight": 2500,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-mandvi-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Dumas Beach",
+      "description": "Scenic black sand beach with spiritual significance",
+      "location": "Surat",
+      "imageUrl": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/06/29120037/gujarat-beach.jpeg",
+      "category": "beach",
+      "rating": 4.2,
+      "reviews": 650,
+      "highlights": [
+        "Black Sand",
+        "Spiritual Vibes",
+        "Street Food"
+      ],
+      "detailedDescription": "Dumas Beach, located near Surat, is famous for its unique black sand and serene ambiance. It holds spiritual significance as a cremation ground, attracting visitors seeking peace. The beach is also known for its vibrant street food stalls offering local delicacies like bhajiyas and pav bhaji.",
+      "timings": "Open 24 hours",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": [
+        "Suvali Beach",
+        "Sardar Patel Museum",
+        "Dutch Garden"
+      ],
+      "howToReach": "16 km from Surat. Taxis, auto-rickshaws, or buses available from Surat city.",
+      "tips": [
+        "Visit in the evening for street food",
+        "Respect local customs due to spiritual significance",
+        "Carry a light jacket for cool evenings",
+        "Avoid isolated areas at night"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1500,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2200,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3000,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 20,
+            "description": "Public transport from Surat to Dumas",
+            "includes": ["Basic Seating"]
+          },
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 70,
+            "description": "Short-distance transport from Surat",
+            "includes": ["Local Driver"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Dumas Beach Walk",
+            "duration": "2 hours",
+            "description": "Stroll along the black sand beach"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Sardar Patel Museum",
+            "duration": "3 hours",
+            "description": "Explore Surat’s history and enjoy local food"
+          },
+          {
+            "time": "evening",
+            "activity": "Street Food at Dumas",
+            "duration": "2 hours",
+            "description": "Savor local snacks and watch the sunset"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Suvali Beach",
+            "duration": "2 hours",
+            "description": "Visit the quieter nearby beach"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Dutch Garden",
+            "duration": "3 hours",
+            "description": "Explore the historic garden in Surat"
+          },
+          {
+            "time": "evening",
+            "activity": "Evening at Dumas",
+            "duration": "2 hours",
+            "description": "Enjoy the beach’s serene atmosphere"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Surat Beachfront Hotel",
+          "rating": 4.5,
+          "pricePerNight": 12500,
+          "amenities": ["Restaurant", "WiFi", "Spa", "Beach Access"],
+          "images": ["/hotels/surat-beachfront-1.jpg", "/hotels/surat-beachfront-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Dumas Comfort Stay",
+          "rating": 4,
+          "pricePerNight": 6800,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/dumas-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Lodge Surat",
+          "rating": 3,
+          "pricePerNight": 2200,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-surat-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Sidi Saiyyed Mosque",
+      "description": "Iconic mosque with intricate jali work",
+      "location": "Ahmedabad",
+      "imageUrl": "https://www.gujarattourism.com/content/dam/gujrattourism/images/heritage-sites/siddi-sayed-mosque/Siddi-Sayed-Mosque-Thumbnail1.jpg",
+      "category": "monument",
+      "rating": 4.7,
+      "reviews": 1200,
+      "highlights": [
+        "Intricate Jali",
+        "Islamic Architecture",
+        "Historical Significance"
+      ],
+      "detailedDescription": "The Sidi Saiyyed Mosque, built in 1573, is renowned for its exquisite stone latticework, particularly the 'Tree of Life' jali, a symbol of Ahmedabad’s heritage. Constructed by Sidi Saiyyed, an Abyssinian in the service of the Gujarat Sultanate, it exemplifies Indo-Islamic architecture and attracts visitors for its serene ambiance.",
+      "timings": "7:00 AM - 6:00 PM",
+      "entryFee": "Free",
+      "bestTimeToVisit": "October to March",
+      "nearbyAttractions": [
+        "Bhadra Fort",
+        "Jama Masjid",
+        "Sabarmati Riverfront"
+      ],
+      "howToReach": "Located in central Ahmedabad. Easily accessible by auto-rickshaws, taxis, or public buses.",
+      "tips": [
+        "Visit in the morning for soft lighting on jali",
+        "Respect prayer times",
+        "Photography is allowed but be respectful",
+        "Combine with nearby heritage walk"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1300,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2000,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 2800,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Auto Rickshaw",
+            "pricePerTrip": 50,
+            "description": "Local transport within Ahmedabad",
+            "includes": ["Local Driver"]
+          },
+          {
+            "type": "City Bus",
+            "pricePerTrip": 15,
+            "description": "Public transport in Ahmedabad",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Sidi Saiyyed Mosque",
+            "duration": "1-2 hours",
+            "description": "Admire the jali work and architecture"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Bhadra Fort",
+            "duration": "3 hours",
+            "description": "Explore the historic fort and enjoy local food"
+          },
+          {
+            "time": "evening",
+            "activity": "Sabarmati Riverfront",
+            "duration": "2 hours",
+            "description": "Stroll along the scenic riverfront"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Heritage Walk Ahmedabad",
+            "duration": "2-3 hours",
+            "description": "Guided walk including Sidi Saiyyed Mosque"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Jama Masjid",
+            "duration": "3 hours",
+            "description": "Visit the grand mosque and savor Gujarati thali"
+          },
+          {
+            "time": "evening",
+            "activity": "Manek Chowk",
+            "duration": "2 hours",
+            "description": "Enjoy street food at the night market"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Ahmedabad Heritage Hotel",
+          "rating": 4.5,
+          "pricePerNight": 14000,
+          "amenities": ["Restaurant", "WiFi", "Spa", "Business Center"],
+          "images": ["/hotels/ahmedabad-heritage-1.jpg", "/hotels/ahmedabad-heritage-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "City Comfort Inn",
+          "rating": 4,
+          "pricePerNight": 7000,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/city-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Stay Ahmedabad",
+          "rating": 3,
+          "pricePerNight": 2000,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-ahmedabad-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sun Temple, Modhera",
+      "description": "11th-century temple dedicated to the Sun God",
+      "location": "Modhera",
+      "imageUrl": "https://assets.architecturaldigest.in/photos/659561d70b94c63c3301b5ba/16:9/w_5472,h_3078,c_limit/22%2010%2013%20ILDL%20MODHERA%20SUN%20TEMPLE%20%C2%A9%20NOUGHTS%20AND%20CROSSES%20103_1.jpg",
+      "category": "monument",
+      "rating": 4.8,
+      "reviews": 1000,
+      "highlights": [
+        "Solanki Architecture",
+        "Sun Festival",
+        "Stepwell"
+      ],
+      "detailedDescription": "The Sun Temple at Modhera, built in 1026 CE by the Solanki dynasty, is a masterpiece of Indian temple architecture. Dedicated to Surya, the Sun God, it features intricate carvings, a grand sabha mandap, and a stepwell (Surya Kund). The temple is aligned to capture sunlight during equinoxes, showcasing ancient astronomical knowledge.",
+      "timings": "7:00 AM - 6:00 PM",
+      "entryFee": "₹25 for Indians, ₹400 for Foreigners",
+      "bestTimeToVisit": "October to February",
+      "nearbyAttractions": [
+        "Rani ki Vav",
+        "Patan Patola Heritage",
+        "Modhera Dance Festival"
+      ],
+      "howToReach": "100 km from Ahmedabad. Taxis or buses available from Ahmedabad or Patan (35 km).",
+      "tips": [
+        "Attend the Modhera Dance Festival in January",
+        "Visit early for best lighting",
+        "Explore the stepwell’s carvings",
+        "Carry water and comfortable shoes"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1500,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2200,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3000,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 40,
+            "description": "Public transport from Patan or Ahmedabad",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Visit Sun Temple",
+            "duration": "2-3 hours",
+            "description": "Explore the temple and Surya Kund"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Rani ki Vav",
+            "duration": "3 hours",
+            "description": "Visit the UNESCO stepwell in Patan"
+          },
+          {
+            "time": "evening",
+            "activity": "Patan Patola Heritage",
+            "duration": "2 hours",
+            "description": "See traditional saree weaving"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Detailed Temple Tour",
+            "duration": "2 hours",
+            "description": "Guided tour of architectural details"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Local Village",
+            "duration": "3 hours",
+            "description": "Explore nearby rural culture"
+          },
+          {
+            "time": "evening",
+            "activity": "Sunset at Temple",
+            "duration": "1-2 hours",
+            "description": "Enjoy the temple’s evening glow"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Modhera Heritage Resort",
+          "rating": 4.5,
+          "pricePerNight": 13000,
+          "amenities": ["Restaurant", "WiFi", "Spa", "Parking"],
+          "images": ["/hotels/modhera-heritage-1.jpg", "/hotels/modhera-heritage-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Patan Comfort Stay",
+          "rating": 4,
+          "pricePerNight": 6500,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/patan-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Lodge Modhera",
+          "rating": 3,
+          "pricePerNight": 2000,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-modhera-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Saputara",
+      "description": "Gujarat’s only hill station with lush greenery",
+      "location": "Saputara",
+      "imageUrl": "https://www.tourmyindia.com/blog//wp-content/uploads/2025/04/Saputara-Hill-Station-Gujarat-Gira-Waterfall.jpg",
+      "category": "hillstation",
+      "rating": 4.4,
+      "reviews": 1100,
+      "highlights": [
+        "Scenic Views",
+        "Boating",
+        "Tribal Culture"
+      ],
+      "detailedDescription": "Saputara, nestled in the Sahyadri range, is Gujarat’s sole hill station, offering cool weather and panoramic views. Known for its lush forests, waterfalls, and tribal culture, it’s a perfect retreat for nature lovers. Attractions include Saputara Lake, Sunset Point, and the tribal museum showcasing Dang’s heritage.",
+      "timings": "Open 24 hours",
+      "entryFee": "Free",
+      "bestTimeToVisit": "June to February",
+      "nearbyAttractions": [
+        "Gira Waterfalls",
+        "Artist Village",
+        "Hatgadh Fort"
+      ],
+      "howToReach": "250 km from Surat, 400 km from Ahmedabad. Taxis or buses available from Surat or Nashik (80 km).",
+      "tips": [
+        "Visit during monsoon for waterfalls",
+        "Carry warm clothes for evenings",
+        "Explore tribal crafts at Artist Village",
+        "Book boating in advance"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 2000,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": "2700",
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3700,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 100,
+            "description": "Public transport from Surat or Nashik",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Saputara Lake Boating",
+            "duration": "2 hours",
+            "description": "Enjoy boating and scenic views"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Sunset Point",
+            "duration": "3 hours",
+            "description": "Relish local food and visit the viewpoint"
+          },
+          {
+            "time": "evening",
+            "activity": "Artist Village",
+            "duration": "2 hours",
+            "description": "Explore tribal art and crafts"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Gira Waterfalls",
+            "duration": "3 hours",
+            "description": "Trek to the scenic waterfall"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Hatgadh Fort",
+            "duration": "3 hours",
+            "description": "Visit the historic fort"
+          },
+          {
+            "time": "evening",
+            "activity": "Tribal Museum",
+            "duration": "1-2 hours",
+            "description": "Learn about Dang’s tribal heritage"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Saputara Hill Resort",
+          "rating": 4.5,
+          "pricePerNight": 15000,
+          "amenities": ["Restaurant", "WiFi", "Spa", "Scenic View"],
+          "images": ["/hotels/saputara-hill-1.jpg", "/hotels/saputara-hill-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Dang Comfort Stay",
+          "rating": 4,
+          "pricePerNight": 8000,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/dang-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Lodge Saputara",
+          "rating": 3,
+          "pricePerNight": 3000,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-saputara-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Wilson Hills",
+      "description": "Serene hill station with misty valleys",
+      "location": "Wilson Hills",
+      "imageUrl": "https://i0.wp.com/justshishir.co.in/wp-content/uploads/2022/07/wilson-hill-station-01.jpg?fit=900%2C502&ssl=1",
+      "category": "hillstation",
+      "rating": 4.2,
+      "reviews": 500,
+      "highlights": [
+        "Misty Views",
+        "Sunrise Point",
+        "Nature Trails"
+      ],
+      "detailedDescription": "Wilson Hills, a lesser-known hill station in the Dang district, offers breathtaking views of misty valleys and lush forests. Ideal for tranquility seekers, it features viewpoints like Sunrise Point and Barumal Temple. The area is rich in tribal culture and natural beauty, perfect for short getaways.",
+      "timings": "Open 24 hours",
+      "entryFee": "Free",
+      "bestTimeToVisit": "July to February",
+      "nearbyAttractions": [
+        "Barumal Temple",
+        "Shabari Dham",
+        "Saputara"
+      ],
+      "howToReach": "120 km from Surat, 60 km from Saputara. Taxis or private vehicles recommended from Surat.",
+      "tips": [
+        "Visit during monsoon for misty views",
+        "Carry rain gear and warm clothes",
+        "Trek to viewpoints for adventure",
+        "Limited food options, carry snacks"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1800,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2500,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3500,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 80,
+            "description": "Public transport from Surat to nearby towns",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Sunrise Point",
+            "duration": "2 hours",
+            "description": "Witness a spectacular sunrise"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Nature Trails",
+            "duration": "3 hours",
+            "description": "Trek through scenic trails"
+          },
+          {
+            "time": "evening",
+            "activity": "Barumal Temple",
+            "duration": "1-2 hours",
+            "description": "Visit the serene temple"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Shabari Dham",
+            "duration": "2-3 hours",
+            "description": "Explore the mythological site"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Local Village",
+            "duration": "3 hours",
+            "description": "Interact with tribal communities"
+          },
+          {
+            "time": "evening",
+            "activity": "Sunset Viewpoint",
+            "duration": "1-2 hours",
+            "description": "Enjoy misty valley views"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Wilson Hills Retreat",
+          "rating": 4,
+          "pricePerNight": 10000,
+          "amenities": ["Restaurant", "WiFi", "Scenic View"],
+          "images": ["/hotels/wilson-retreat-1.jpg", "/hotels/wilson-retreat-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Dang Valley Stay",
+          "rating": 3.5,
+          "pricePerNight": 6000,
+          "amenities": ["Restaurant", "Parking"],
+          "images": ["/hotels/dang-valley-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Camp Wilson",
+          "rating": 3,
+          "pricePerNight": 2000,
+          "amenities": ["Basic Breakfast", "Camping"],
+          "images": ["/hotels/budget-wilson-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Blackbuck National Park, Velavadar",
+      "description": "Sanctuary for blackbucks and migratory birds",
+      "location": "Bhavnagar",
+      "imageUrl": "https://www.blackbucksafarilodge.com/images/the-park/007.jpg",
+      "category": "wildlife",
+      "rating": 4.5,
+      "reviews": 700,
+      "highlights": [
+        "Blackbuck Herds",
+        "Birdwatching",
+        "Grasslands Ecosystem"
+      ],
+      "detailedDescription": "Blackbuck National Park in Velavadar is a unique grassland ecosystem, home to large herds of blackbucks, India’s fastest antelope. It’s also a haven for migratory birds like harriers and cranes during winter. The park offers jeep safaris and walking trails, providing an intimate wildlife experience in a serene landscape.",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹400 for Indians, ₹2800 for Foreigners (Safari)",
+      "bestTimeToVisit": "November to March",
+      "nearbyAttractions": [
+        "Palitana Jain Temples",
+        "Victoria Park",
+        "Bhavnagar Takhteshwar Temple"
+      ],
+      "howToReach": "50 km from Bhavnagar, 150 km from Ahmedabad. Taxis or buses available from Bhavnagar or Ahmedabad.",
+      "tips": [
+        "Book safaris early",
+        "Bring binoculars for birdwatching",
+        "Wear comfortable shoes for trails",
+        "Avoid loud noises to respect wildlife"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1600,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2300,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3200,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 50,
+            "description": "Public transport from Bhavnagar to Velavadar",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Jeep Safari",
+            "duration": "3 hours",
+            "description": "Spot blackbucks and migratory birds"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Victoria Park",
+            "duration": "3 hours",
+            "description": "Explore Bhavnagar’s urban park"
+          },
+          {
+            "time": "evening",
+            "activity": "Takhteshwar Temple",
+            "duration": "1-2 hours",
+            "description": "Visit the hilltop temple for sunset views"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Walking Trail",
+            "duration": "2-3 hours",
+            "description": "Explore the grasslands on foot with a guide"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Palitana Jain Temples",
+            "duration": "4 hours",
+            "description": "Visit the sacred Jain pilgrimage site"
+          },
+          {
+            "time": "evening",
+            "activity": "Local Market",
+            "duration": "2 hours",
+            "description": "Shop for souvenirs in Bhavnagar"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Velavadar Safari Lodge",
+          "rating": 4.5,
+          "pricePerNight": 14000,
+          "amenities": ["Restaurant", "WiFi", "Safari Booking", "Nature View"],
+          "images": ["/hotels/velavadar-lodge-1.jpg", "/hotels/velavadar-lodge-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Bhavnagar Comfort Hotel",
+          "rating": 4,
+          "pricePerNight": 7500,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/bhavnagar-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Stay Velavadar",
+          "rating": 3,
+          "pricePerNight": 2500,
+          "amenities": ["WiFi", "Basic Breakfast"],
+          "images": ["/hotels/budget-velavadar-1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Polo Forest",
+      "description": "Lush forest with ancient ruins and river streams",
+      "location": "Vijaynagar",
+      "imageUrl": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/19/a25ef7c2c0df29bc6fb239b1629fde1f_1000x1000.jpg",
+      "category": "natural",
+      "rating": 4.6,
+      "reviews": 800,
+      "highlights": [
+        "Ancient Ruins",
+        "Harnav River",
+        "Camping"
+      ],
+      "detailedDescription": "Polo Forest, nestled in the Aravalli range, is a hidden gem combining natural beauty with historical ruins. The Harnav River flows through dense forests, creating serene streams and waterfalls. Ancient temples and Jain ruins add a mystical charm, making it ideal for trekking, camping, and nature exploration.",
+      "timings": "6:00 AM - 6:00 PM",
+      "entryFee": "₹50 for Indians, ₹200 for Foreigners",
+      "bestTimeToVisit": "August to February",
+      "nearbyAttractions": [
+        "Idar Fort",
+        "Jain Temples",
+        "Shamlaji Temple"
+      ],
+      "howToReach": "120 km from Ahmedabad, 70 km from Himmatnagar. Taxis or private vehicles recommended from Ahmedabad or Udaipur (150 km).",
+      "tips": [
+        "Visit during monsoon for lush greenery",
+        "Carry trekking shoes and insect repellent",
+        "Book camping in advance",
+        "Respect historical sites"
+      ],
+      "transportation": {
+        "taxiOptions": [
+          {
+            "type": "Standard",
+            "pricePerDay": 1700,
+            "description": "Comfortable sedan for up to 4 passengers",
+            "includes": ["AC", "Local Driver", "Fuel"]
+          },
+          {
+            "type": "Premium",
+            "pricePerDay": 2400,
+            "description": "Luxury sedan for up to 4 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles"]
+          },
+          {
+            "type": "SUV",
+            "pricePerDay": 3400,
+            "description": "Spacious vehicle for up to 6 passengers",
+            "includes": ["AC", "English Speaking Driver", "Fuel", "Water Bottles", "Wi-Fi"]
+          }
+        ],
+        "otherOptions": [
+          {
+            "type": "Local Bus",
+            "pricePerTrip": 60,
+            "description": "Public transport from Himmatnagar to Vijaynagar",
+            "includes": ["Basic Seating"]
+          }
+        ]
+      },
+      "suggestedItinerary": {
+        "1": [
+          {
+            "time": "morning",
+            "activity": "Trekking in Polo Forest",
+            "duration": "3 hours",
+            "description": "Explore trails and Harnav River"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Ancient Ruins",
+            "duration": "3 hours",
+            "description": "Visit Jain temples and historical sites"
+          },
+          {
+            "time": "evening",
+            "activity": "Campfire",
+            "duration": "2 hours",
+            "description": "Enjoy a night under the stars"
+          }
+        ],
+        "2": [
+          {
+            "time": "morning",
+            "activity": "Idar Fort",
+            "duration": "2-3 hours",
+            "description": "Trek to the historic fort"
+          },
+          {
+            "time": "afternoon",
+            "activity": "Lunch and Shamlaji Temple",
+            "duration": "3 hours",
+            "description": "Visit the ancient temple"
+          },
+          {
+            "time": "evening",
+            "activity": "Nature Walk",
+            "duration": "2 hours",
+            "description": "Explore forest streams and wildlife"
+          }
+        ]
+      },
+      "hotels": [
+        {
+          "id": "1",
+          "name": "Polo Forest Eco Resort",
+          "rating": 4.5,
+          "pricePerNight": 12000,
+          "amenities": ["Restaurant", "WiFi", "Camping", "Nature View"],
+          "images": ["/hotels/polo-eco-1.jpg", "/hotels/polo-eco-2.jpg"]
+        },
+        {
+          "id": "2",
+          "name": "Vijaynagar Comfort Stay",
+          "rating": 4,
+          "pricePerNight": 7000,
+          "amenities": ["Restaurant", "WiFi", "Parking"],
+          "images": ["/hotels/vijaynagar-comfort-1.jpg"]
+        },
+        {
+          "id": "3",
+          "name": "Budget Camp Polo",
+          "rating": 3,
+          "pricePerNight": 2500,
+          "amenities": ["Basic Breakfast", "Camping"],
+          "images": ["/hotels/budget-polo-1.jpg"]
         }
       ]
     }
